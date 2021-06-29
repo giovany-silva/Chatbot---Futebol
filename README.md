@@ -1,2 +1,2 @@
 # Chatbot---Futebol
-Chatbot para solucionar dúvidas sobre o campeonato Brasileiro
+Chatbot para solucionar dúvidas sobre o campeonato Ingles
