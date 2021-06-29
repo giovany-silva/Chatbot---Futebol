@@ -1,0 +1,13 @@
+{
+    "results":[
+        {
+            "messages": ["Resultado do jogo do Flamengo"],
+            "response": "O resultado do último jogo do Flamengo foi: "
+        },
+        {
+            "messages": [""],
+            "response": "Olá, eu sou o Futebot do Brasileirao 2021. O que deseja saber sobre o campeonato?"
+        }
+    ]
+}
+
