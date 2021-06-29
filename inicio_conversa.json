@@ -1,0 +1,27 @@
+{
+    "conversations": [
+        {
+            "messages": ["Oi", "Olá", "Eae"],
+            "response": "Olá, eu sou o robô Brasileirao 2021. O que deseja saber sobre o campeonato?"
+            
+        },
+
+        {
+            "messages": ["Bom dia"],
+            "response": "Bom dia, eu sou o robô Brasileirao 2021. O que deseja saber sobre o campeonato?"
+            
+        },
+
+        {
+            "messages": ["Boa tarde"],
+            "response": "Boa tarde, eu sou o robô Brasileirao 2021. O que deseja saber sobre o campeonato?"
+            
+        },
+
+        {
+            "messages": ["Boa noite"],
+            "response": "Boa noite, eu sou o robô Brasileirao 2021. O que deseja saber sobre o campeonato?"
+            
+        }
+    ]
+}
