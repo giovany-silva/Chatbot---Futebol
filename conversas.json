@@ -1,0 +1,1503 @@
+{
+     "results":[
+               {
+                    "message": ["Qual eh o estado do Red Bull Bragantino  ?", "O Red Bull Bragantino eh de qual o estado ?", "De onde o Red Bull Bragantino  eh ?"],
+                    "response": "O Red Bull Bragantino eh de Sao Paulo"
+               }
+              ,
+               {
+                    "message": ["Quantos pontos o time Red Bull Bragantino  possui ?", "Qual a pontuacao do time Red Bull Bragantino  ?", "O Red Bull Bragantino  possui quantos pontos?"],
+                    "response": "O Red Bull Bragantino possui 18 pontos"
+               }
+              ,
+               {
+                    "message": ["Quantos jogos o time Red Bull Bragantino  fez ?", "Qual o numero de jogos do time Red Bull Bragantino  ?", " O Red Bull Bragantino  fez quantos jogos ?"],
+                    "response": "O Red Bull Bragantino fez 8 jogos"
+               }
+              ,
+               {
+                    "message": ["Quantas vitorias o time Red Bull Bragantino  possui ?", "Qual o numero de vitorias do time Red Bull Bragantino  ?", "O Red Bull Bragantino  possui quantas vitorias ?"],
+                    "response": "O Red Bull Bragantino possui 5 vitorias"
+               }
+              ,
+               {
+                    "message": ["Quantos empates o time Red Bull Bragantino  possui ?", "Qual o numero de empates do time Red Bull Bragantino  ?", "O Red Bull Bragantino  possui quantos empates ?"],
+                    "response": "O Red Bull Bragantino possui 3 empates"
+               }
+              ,
+               {
+                    "message": ["Quantas derrotas o time Red Bull Bragantino  possui ?", "Qual o numero de derrotas do time Red Bull Bragantino  ?", "O Red Bull Bragantino  possui quantas derrotas?"],
+                    "response": "O Red Bull Bragantino possui 0 derrotas"
+               }
+              ,
+               {
+                    "message": ["Quantos gols o time Red Bull Bragantino  fez ?", "Qual numero de gols que o time Red Bull Bragantino  fez ?", " O Red Bull Bragantino  fez quantos gols ?"],
+                    "response": "O Red Bull Bragantino fez 17 gols"
+               }
+              ,
+               {
+                    "message": ["Quantos gols o time Red Bull Bragantino  tomou ?", "Qual o numero de gols que o time Red Bull Bragantino  tomou ?", "O Red Bull Bragantino  tomou quantos gols?"],
+                    "response": "O Red Bull Bragantino tomou 9 gols"
+               }
+              ,
+               {
+                    "message": ["Quantos saldo de gols o time Red Bull Bragantino  possui ?", "Qual o saldo de gols do time Red Bull Bragantino  ?", "O Red Bull Bragantino  possui quantos gols de saldo ?"],
+                    "response": "O Red Bull Bragantino possui 8 de saldo de gols"
+               }
+              ,
+               {
+                    "message": ["Quantos cartoes amarelo o time Red Bull Bragantino  possui ?", "Qual o numero de cartoes amarelo que o time Red Bull Bragantino  possui ?", "O Red Bull Bragantino  possui quantos cartoes amarelo ?"],
+                    "response": "O Red Bull Bragantino possui 16 cartoes amarelo"
+               }
+              ,
+               {
+                    "message": ["Quantos cartoes vermelho o time Red Bull Bragantino  possui ?", "Qual o numero de cartoes vermelho que o time Red Bull Bragantino  possui ?", "O Red Bull Bragantino  possui quantos cartoes vermelho ?"],
+                    "response": "O Red Bull Bragantino possui 0 cartoes vermelho"
+               }
+              ,
+               {
+                    "message": ["Quanto de aproveitamento o time Red Bull Bragantino  possui ?", "Quantos porcento de aproveitamento o Red Bull Bragantino  tem?", "Como estah o aproveitamento do Red Bull Bragantino  ?"],
+                    "response": "O Red Bull Bragantino tem 75 % de aproveitamento no campeonato"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Red Bull Bragantino  Na ultima rodada ?", "O Red Bull Bragantino  foi bem na ultima rodada?", "Na ultima rodada o Red Bull Bragantino  foi bem?"],
+                    "response": "Na ultima rodada o Red Bull Bragantino  Empatou"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Red Bull Bragantino  Na penultima rodada ?", "O Red Bull Bragantino  foi bem na penultima rodada?", "Na penultima rodada o Red Bull Bragantino  foi bem?"],
+                    "response": "Na penultima rodada o Red Bull Bragantino  Venceu"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Red Bull Bragantino  na antepenultima rodada ?", "O Red Bull Bragantino  foi bem na antepenultima rodada?", "Na antepenultima rodada o Red Bull Bragantino  foi bem?"],
+                    "response": "Na antepenultima rodada o Red Bull Bragantino  Venceu"
+               }
+              ,
+               {
+                    "message": ["Qual eh o estado do Athletico Paranaense  ?", "O Athletico Paranaense eh de qual o estado ?", "De onde o Athletico Paranaense  eh ?"],
+                    "response": "O Athletico Paranaense eh de Parana"
+               }
+              ,
+               {
+                    "message": ["Quantos pontos o time Athletico Paranaense  possui ?", "Qual a pontuacao do time Athletico Paranaense  ?", "O Athletico Paranaense  possui quantos pontos?"],
+                    "response": "O Athletico Paranaense possui 16 pontos"
+               }
+              ,
+               {
+                    "message": ["Quantos jogos o time Athletico Paranaense  fez ?", "Qual o numero de jogos do time Athletico Paranaense  ?", " O Athletico Paranaense  fez quantos jogos ?"],
+                    "response": "O Athletico Paranaense fez 7 jogos"
+               }
+              ,
+               {
+                    "message": ["Quantas vitorias o time Athletico Paranaense  possui ?", "Qual o numero de vitorias do time Athletico Paranaense  ?", "O Athletico Paranaense  possui quantas vitorias ?"],
+                    "response": "O Athletico Paranaense possui 5 vitorias"
+               }
+              ,
+               {
+                    "message": ["Quantos empates o time Athletico Paranaense  possui ?", "Qual o numero de empates do time Athletico Paranaense  ?", "O Athletico Paranaense  possui quantos empates ?"],
+                    "response": "O Athletico Paranaense possui 1 empates"
+               }
+              ,
+               {
+                    "message": ["Quantas derrotas o time Athletico Paranaense  possui ?", "Qual o numero de derrotas do time Athletico Paranaense  ?", "O Athletico Paranaense  possui quantas derrotas?"],
+                    "response": "O Athletico Paranaense possui 1 derrotas"
+               }
+              ,
+               {
+                    "message": ["Quantos gols o time Athletico Paranaense  fez ?", "Qual numero de gols que o time Athletico Paranaense  fez ?", " O Athletico Paranaense  fez quantos gols ?"],
+                    "response": "O Athletico Paranaense fez 14 gols"
+               }
+              ,
+               {
+                    "message": ["Quantos gols o time Athletico Paranaense  tomou ?", "Qual o numero de gols que o time Athletico Paranaense  tomou ?", "O Athletico Paranaense  tomou quantos gols?"],
+                    "response": "O Athletico Paranaense tomou 6 gols"
+               }
+              ,
+               {
+                    "message": ["Quantos saldo de gols o time Athletico Paranaense  possui ?", "Qual o saldo de gols do time Athletico Paranaense  ?", "O Athletico Paranaense  possui quantos gols de saldo ?"],
+                    "response": "O Athletico Paranaense possui 8 de saldo de gols"
+               }
+              ,
+               {
+                    "message": ["Quantos cartoes amarelo o time Athletico Paranaense  possui ?", "Qual o numero de cartoes amarelo que o time Athletico Paranaense  possui ?", "O Athletico Paranaense  possui quantos cartoes amarelo ?"],
+                    "response": "O Athletico Paranaense possui 16 cartoes amarelo"
+               }
+              ,
+               {
+                    "message": ["Quantos cartoes vermelho o time Athletico Paranaense  possui ?", "Qual o numero de cartoes vermelho que o time Athletico Paranaense  possui ?", "O Athletico Paranaense  possui quantos cartoes vermelho ?"],
+                    "response": "O Athletico Paranaense possui 4 cartoes vermelho"
+               }
+              ,
+               {
+                    "message": ["Quanto de aproveitamento o time Athletico Paranaense  possui ?", "Quantos porcento de aproveitamento o Athletico Paranaense  tem?", "Como estah o aproveitamento do Athletico Paranaense  ?"],
+                    "response": "O Athletico Paranaense tem 76 % de aproveitamento no campeonato"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Athletico Paranaense  Na ultima rodada ?", "O Athletico Paranaense  foi bem na ultima rodada?", "Na ultima rodada o Athletico Paranaense  foi bem?"],
+                    "response": "Na ultima rodada o Athletico Paranaense  Venceu"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Athletico Paranaense  Na penultima rodada ?", "O Athletico Paranaense  foi bem na penultima rodada?", "Na penultima rodada o Athletico Paranaense  foi bem?"],
+                    "response": "Na penultima rodada o Athletico Paranaense  Empatou"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Athletico Paranaense  na antepenultima rodada ?", "O Athletico Paranaense  foi bem na antepenultima rodada?", "Na antepenultima rodada o Athletico Paranaense  foi bem?"],
+                    "response": "Na antepenultima rodada o Athletico Paranaense  Perdeu"
+               }
+              ,
+               {
+                    "message": ["Qual eh o estado do Palmeiras  ?", "O Palmeiras eh de qual o estado ?", "De onde o Palmeiras  eh ?"],
+                    "response": "O Palmeiras eh de Sao Paulo"
+               }
+              ,
+               {
+                    "message": ["Quantos pontos o time Palmeiras  possui ?", "Qual a pontuacao do time Palmeiras  ?", "O Palmeiras  possui quantos pontos?"],
+                    "response": "O Palmeiras possui 16 pontos"
+               }
+              ,
+               {
+                    "message": ["Quantos jogos o time Palmeiras  fez ?", "Qual o numero de jogos do time Palmeiras  ?", " O Palmeiras  fez quantos jogos ?"],
+                    "response": "O Palmeiras fez 8 jogos"
+               }
+              ,
+               {
+                    "message": ["Quantas vitorias o time Palmeiras  possui ?", "Qual o numero de vitorias do time Palmeiras  ?", "O Palmeiras  possui quantas vitorias ?"],
+                    "response": "O Palmeiras possui 5 vitorias"
+               }
+              ,
+               {
+                    "message": ["Quantos empates o time Palmeiras  possui ?", "Qual o numero de empates do time Palmeiras  ?", "O Palmeiras  possui quantos empates ?"],
+                    "response": "O Palmeiras possui 1 empates"
+               }
+              ,
+               {
+                    "message": ["Quantas derrotas o time Palmeiras  possui ?", "Qual o numero de derrotas do time Palmeiras  ?", "O Palmeiras  possui quantas derrotas?"],
+                    "response": "O Palmeiras possui 2 derrotas"
+               }
+              ,
+               {
+                    "message": ["Quantos gols o time Palmeiras  fez ?", "Qual numero de gols que o time Palmeiras  fez ?", " O Palmeiras  fez quantos gols ?"],
+                    "response": "O Palmeiras fez 15 gols"
+               }
+              ,
+               {
+                    "message": ["Quantos gols o time Palmeiras  tomou ?", "Qual o numero de gols que o time Palmeiras  tomou ?", "O Palmeiras  tomou quantos gols?"],
+                    "response": "O Palmeiras tomou 10 gols"
+               }
+              ,
+               {
+                    "message": ["Quantos saldo de gols o time Palmeiras  possui ?", "Qual o saldo de gols do time Palmeiras  ?", "O Palmeiras  possui quantos gols de saldo ?"],
+                    "response": "O Palmeiras possui 5 de saldo de gols"
+               }
+              ,
+               {
+                    "message": ["Quantos cartoes amarelo o time Palmeiras  possui ?", "Qual o numero de cartoes amarelo que o time Palmeiras  possui ?", "O Palmeiras  possui quantos cartoes amarelo ?"],
+                    "response": "O Palmeiras possui 24 cartoes amarelo"
+               }
+              ,
+               {
+                    "message": ["Quantos cartoes vermelho o time Palmeiras  possui ?", "Qual o numero de cartoes vermelho que o time Palmeiras  possui ?", "O Palmeiras  possui quantos cartoes vermelho ?"],
+                    "response": "O Palmeiras possui 1 cartoes vermelho"
+               }
+              ,
+               {
+                    "message": ["Quanto de aproveitamento o time Palmeiras  possui ?", "Quantos porcento de aproveitamento o Palmeiras  tem?", "Como estah o aproveitamento do Palmeiras  ?"],
+                    "response": "O Palmeiras tem 66 % de aproveitamento no campeonato"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Palmeiras  Na ultima rodada ?", "O Palmeiras  foi bem na ultima rodada?", "Na ultima rodada o Palmeiras  foi bem?"],
+                    "response": "Na ultima rodada o Palmeiras  Venceu"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Palmeiras  Na penultima rodada ?", "O Palmeiras  foi bem na penultima rodada?", "Na penultima rodada o Palmeiras  foi bem?"],
+                    "response": "Na penultima rodada o Palmeiras  Venceu"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Palmeiras  na antepenultima rodada ?", "O Palmeiras  foi bem na antepenultima rodada?", "Na antepenultima rodada o Palmeiras  foi bem?"],
+                    "response": "Na antepenultima rodada o Palmeiras  Perdeu"
+               }
+              ,
+               {
+                    "message": ["Qual eh o estado do Fortaleza  ?", "O Fortaleza eh de qual o estado ?", "De onde o Fortaleza  eh ?"],
+                    "response": "O Fortaleza eh de Ceara"
+               }
+              ,
+               {
+                    "message": ["Quantos pontos o time Fortaleza  possui ?", "Qual a pontuacao do time Fortaleza  ?", "O Fortaleza  possui quantos pontos?"],
+                    "response": "O Fortaleza possui 15 pontos"
+               }
+              ,
+               {
+                    "message": ["Quantos jogos o time Fortaleza  fez ?", "Qual o numero de jogos do time Fortaleza  ?", " O Fortaleza  fez quantos jogos ?"],
+                    "response": "O Fortaleza fez 8 jogos"
+               }
+              ,
+               {
+                    "message": ["Quantas vitorias o time Fortaleza  possui ?", "Qual o numero de vitorias do time Fortaleza  ?", "O Fortaleza  possui quantas vitorias ?"],
+                    "response": "O Fortaleza possui 4 vitorias"
+               }
+              ,
+               {
+                    "message": ["Quantos empates o time Fortaleza  possui ?", "Qual o numero de empates do time Fortaleza  ?", "O Fortaleza  possui quantos empates ?"],
+                    "response": "O Fortaleza possui 3 empates"
+               }
+              ,
+               {
+                    "message": ["Quantas derrotas o time Fortaleza  possui ?", "Qual o numero de derrotas do time Fortaleza  ?", "O Fortaleza  possui quantas derrotas?"],
+                    "response": "O Fortaleza possui 1 derrotas"
+               }
+              ,
+               {
+                    "message": ["Quantos gols o time Fortaleza  fez ?", "Qual numero de gols que o time Fortaleza  fez ?", " O Fortaleza  fez quantos gols ?"],
+                    "response": "O Fortaleza fez 13 gols"
+               }
+              ,
+               {
+                    "message": ["Quantos gols o time Fortaleza  tomou ?", "Qual o numero de gols que o time Fortaleza  tomou ?", "O Fortaleza  tomou quantos gols?"],
+                    "response": "O Fortaleza tomou 7 gols"
+               }
+              ,
+               {
+                    "message": ["Quantos saldo de gols o time Fortaleza  possui ?", "Qual o saldo de gols do time Fortaleza  ?", "O Fortaleza  possui quantos gols de saldo ?"],
+                    "response": "O Fortaleza possui 6 de saldo de gols"
+               }
+              ,
+               {
+                    "message": ["Quantos cartoes amarelo o time Fortaleza  possui ?", "Qual o numero de cartoes amarelo que o time Fortaleza  possui ?", "O Fortaleza  possui quantos cartoes amarelo ?"],
+                    "response": "O Fortaleza possui 21 cartoes amarelo"
+               }
+              ,
+               {
+                    "message": ["Quantos cartoes vermelho o time Fortaleza  possui ?", "Qual o numero de cartoes vermelho que o time Fortaleza  possui ?", "O Fortaleza  possui quantos cartoes vermelho ?"],
+                    "response": "O Fortaleza possui 1 cartoes vermelho"
+               }
+              ,
+               {
+                    "message": ["Quanto de aproveitamento o time Fortaleza  possui ?", "Quantos porcento de aproveitamento o Fortaleza  tem?", "Como estah o aproveitamento do Fortaleza  ?"],
+                    "response": "O Fortaleza tem 62 % de aproveitamento no campeonato"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Fortaleza  Na ultima rodada ?", "O Fortaleza  foi bem na ultima rodada?", "Na ultima rodada o Fortaleza  foi bem?"],
+                    "response": "Na ultima rodada o Fortaleza  Venceu"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Fortaleza  Na penultima rodada ?", "O Fortaleza  foi bem na penultima rodada?", "Na penultima rodada o Fortaleza  foi bem?"],
+                    "response": "Na penultima rodada o Fortaleza  Empatou"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Fortaleza  na antepenultima rodada ?", "O Fortaleza  foi bem na antepenultima rodada?", "Na antepenultima rodada o Fortaleza  foi bem?"],
+                    "response": "Na antepenultima rodada o Fortaleza  Perdeu"
+               }
+              ,
+               {
+                    "message": ["Qual eh o estado do Atletico Mineiro  ?", "O Atletico Mineiro eh de qual o estado ?", "De onde o Atletico Mineiro  eh ?"],
+                    "response": "O Atletico Mineiro eh de Minas Gerais"
+               }
+              ,
+               {
+                    "message": ["Quantos pontos o time Atletico Mineiro  possui ?", "Qual a pontuacao do time Atletico Mineiro  ?", "O Atletico Mineiro  possui quantos pontos?"],
+                    "response": "O Atletico Mineiro possui 13 pontos"
+               }
+              ,
+               {
+                    "message": ["Quantos jogos o time Atletico Mineiro  fez ?", "Qual o numero de jogos do time Atletico Mineiro  ?", " O Atletico Mineiro  fez quantos jogos ?"],
+                    "response": "O Atletico Mineiro fez 8 jogos"
+               }
+              ,
+               {
+                    "message": ["Quantas vitorias o time Atletico Mineiro  possui ?", "Qual o numero de vitorias do time Atletico Mineiro  ?", "O Atletico Mineiro  possui quantas vitorias ?"],
+                    "response": "O Atletico Mineiro possui 4 vitorias"
+               }
+              ,
+               {
+                    "message": ["Quantos empates o time Atletico Mineiro  possui ?", "Qual o numero de empates do time Atletico Mineiro  ?", "O Atletico Mineiro  possui quantos empates ?"],
+                    "response": "O Atletico Mineiro possui 1 empates"
+               }
+              ,
+               {
+                    "message": ["Quantas derrotas o time Atletico Mineiro  possui ?", "Qual o numero de derrotas do time Atletico Mineiro  ?", "O Atletico Mineiro  possui quantas derrotas?"],
+                    "response": "O Atletico Mineiro possui 3 derrotas"
+               }
+              ,
+               {
+                    "message": ["Quantos gols o time Atletico Mineiro  fez ?", "Qual numero de gols que o time Atletico Mineiro  fez ?", " O Atletico Mineiro  fez quantos gols ?"],
+                    "response": "O Atletico Mineiro fez 10 gols"
+               }
+              ,
+               {
+                    "message": ["Quantos gols o time Atletico Mineiro  tomou ?", "Qual o numero de gols que o time Atletico Mineiro  tomou ?", "O Atletico Mineiro  tomou quantos gols?"],
+                    "response": "O Atletico Mineiro tomou 8 gols"
+               }
+              ,
+               {
+                    "message": ["Quantos saldo de gols o time Atletico Mineiro  possui ?", "Qual o saldo de gols do time Atletico Mineiro  ?", "O Atletico Mineiro  possui quantos gols de saldo ?"],
+                    "response": "O Atletico Mineiro possui 2 de saldo de gols"
+               }
+              ,
+               {
+                    "message": ["Quantos cartoes amarelo o time Atletico Mineiro  possui ?", "Qual o numero de cartoes amarelo que o time Atletico Mineiro  possui ?", "O Atletico Mineiro  possui quantos cartoes amarelo ?"],
+                    "response": "O Atletico Mineiro possui 13 cartoes amarelo"
+               }
+              ,
+               {
+                    "message": ["Quantos cartoes vermelho o time Atletico Mineiro  possui ?", "Qual o numero de cartoes vermelho que o time Atletico Mineiro  possui ?", "O Atletico Mineiro  possui quantos cartoes vermelho ?"],
+                    "response": "O Atletico Mineiro possui 3 cartoes vermelho"
+               }
+              ,
+               {
+                    "message": ["Quanto de aproveitamento o time Atletico Mineiro  possui ?", "Quantos porcento de aproveitamento o Atletico Mineiro  tem?", "Como estah o aproveitamento do Atletico Mineiro  ?"],
+                    "response": "O Atletico Mineiro tem 54 % de aproveitamento no campeonato"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Atletico Mineiro  Na ultima rodada ?", "O Atletico Mineiro  foi bem na ultima rodada?", "Na ultima rodada o Atletico Mineiro  foi bem?"],
+                    "response": "Na ultima rodada o Atletico Mineiro  Venceu"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Atletico Mineiro  Na penultima rodada ?", "O Atletico Mineiro  foi bem na penultima rodada?", "Na penultima rodada o Atletico Mineiro  foi bem?"],
+                    "response": "Na penultima rodada o Atletico Mineiro  Perdeu"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Atletico Mineiro  na antepenultima rodada ?", "O Atletico Mineiro  foi bem na antepenultima rodada?", "Na antepenultima rodada o Atletico Mineiro  foi bem?"],
+                    "response": "Na antepenultima rodada o Atletico Mineiro  Perdeu"
+               }
+              ,
+               {
+                    "message": ["Qual eh o estado do Flamengo  ?", "O Flamengo eh de qual o estado ?", "De onde o Flamengo  eh ?"],
+                    "response": "O Flamengo eh de Rio de Janeiro"
+               }
+              ,
+               {
+                    "message": ["Quantos pontos o time Flamengo  possui ?", "Qual a pontuacao do time Flamengo  ?", "O Flamengo  possui quantos pontos?"],
+                    "response": "O Flamengo possui 12 pontos"
+               }
+              ,
+               {
+                    "message": ["Quantos jogos o time Flamengo  fez ?", "Qual o numero de jogos do time Flamengo  ?", " O Flamengo  fez quantos jogos ?"],
+                    "response": "O Flamengo fez 6 jogos"
+               }
+              ,
+               {
+                    "message": ["Quantas vitorias o time Flamengo  possui ?", "Qual o numero de vitorias do time Flamengo  ?", "O Flamengo  possui quantas vitorias ?"],
+                    "response": "O Flamengo possui 4 vitorias"
+               }
+              ,
+               {
+                    "message": ["Quantos empates o time Flamengo  possui ?", "Qual o numero de empates do time Flamengo  ?", "O Flamengo  possui quantos empates ?"],
+                    "response": "O Flamengo possui 0 empates"
+               }
+              ,
+               {
+                    "message": ["Quantas derrotas o time Flamengo  possui ?", "Qual o numero de derrotas do time Flamengo  ?", "O Flamengo  possui quantas derrotas?"],
+                    "response": "O Flamengo possui 2 derrotas"
+               }
+              ,
+               {
+                    "message": ["Quantos gols o time Flamengo  fez ?", "Qual numero de gols que o time Flamengo  fez ?", " O Flamengo  fez quantos gols ?"],
+                    "response": "O Flamengo fez 9 gols"
+               }
+              ,
+               {
+                    "message": ["Quantos gols o time Flamengo  tomou ?", "Qual o numero de gols que o time Flamengo  tomou ?", "O Flamengo  tomou quantos gols?"],
+                    "response": "O Flamengo tomou 5 gols"
+               }
+              ,
+               {
+                    "message": ["Quantos saldo de gols o time Flamengo  possui ?", "Qual o saldo de gols do time Flamengo  ?", "O Flamengo  possui quantos gols de saldo ?"],
+                    "response": "O Flamengo possui 4 de saldo de gols"
+               }
+              ,
+               {
+                    "message": ["Quantos cartoes amarelo o time Flamengo  possui ?", "Qual o numero de cartoes amarelo que o time Flamengo  possui ?", "O Flamengo  possui quantos cartoes amarelo ?"],
+                    "response": "O Flamengo possui 11 cartoes amarelo"
+               }
+              ,
+               {
+                    "message": ["Quantos cartoes vermelho o time Flamengo  possui ?", "Qual o numero de cartoes vermelho que o time Flamengo  possui ?", "O Flamengo  possui quantos cartoes vermelho ?"],
+                    "response": "O Flamengo possui 0 cartoes vermelho"
+               }
+              ,
+               {
+                    "message": ["Quanto de aproveitamento o time Flamengo  possui ?", "Quantos porcento de aproveitamento o Flamengo  tem?", "Como estah o aproveitamento do Flamengo  ?"],
+                    "response": "O Flamengo tem 66 % de aproveitamento no campeonato"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Flamengo  Na ultima rodada ?", "O Flamengo  foi bem na ultima rodada?", "Na ultima rodada o Flamengo  foi bem?"],
+                    "response": "Na ultima rodada o Flamengo  Venceu"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Flamengo  Na penultima rodada ?", "O Flamengo  foi bem na penultima rodada?", "Na penultima rodada o Flamengo  foi bem?"],
+                    "response": "Na penultima rodada o Flamengo  Perdeu"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Flamengo  na antepenultima rodada ?", "O Flamengo  foi bem na antepenultima rodada?", "Na antepenultima rodada o Flamengo  foi bem?"],
+                    "response": "Na antepenultima rodada o Flamengo  Venceu"
+               }
+              ,
+               {
+                    "message": ["Qual eh o estado do Santos  ?", "O Santos eh de qual o estado ?", "De onde o Santos  eh ?"],
+                    "response": "O Santos eh de Sao Paulo"
+               }
+              ,
+               {
+                    "message": ["Quantos pontos o time Santos  possui ?", "Qual a pontuacao do time Santos  ?", "O Santos  possui quantos pontos?"],
+                    "response": "O Santos possui 12 pontos"
+               }
+              ,
+               {
+                    "message": ["Quantos jogos o time Santos  fez ?", "Qual o numero de jogos do time Santos  ?", " O Santos  fez quantos jogos ?"],
+                    "response": "O Santos fez 8 jogos"
+               }
+              ,
+               {
+                    "message": ["Quantas vitorias o time Santos  possui ?", "Qual o numero de vitorias do time Santos  ?", "O Santos  possui quantas vitorias ?"],
+                    "response": "O Santos possui 3 vitorias"
+               }
+              ,
+               {
+                    "message": ["Quantos empates o time Santos  possui ?", "Qual o numero de empates do time Santos  ?", "O Santos  possui quantos empates ?"],
+                    "response": "O Santos possui 3 empates"
+               }
+              ,
+               {
+                    "message": ["Quantas derrotas o time Santos  possui ?", "Qual o numero de derrotas do time Santos  ?", "O Santos  possui quantas derrotas?"],
+                    "response": "O Santos possui 2 derrotas"
+               }
+              ,
+               {
+                    "message": ["Quantos gols o time Santos  fez ?", "Qual numero de gols que o time Santos  fez ?", " O Santos  fez quantos gols ?"],
+                    "response": "O Santos fez 9 gols"
+               }
+              ,
+               {
+                    "message": ["Quantos gols o time Santos  tomou ?", "Qual o numero de gols que o time Santos  tomou ?", "O Santos  tomou quantos gols?"],
+                    "response": "O Santos tomou 7 gols"
+               }
+              ,
+               {
+                    "message": ["Quantos saldo de gols o time Santos  possui ?", "Qual o saldo de gols do time Santos  ?", "O Santos  possui quantos gols de saldo ?"],
+                    "response": "O Santos possui 2 de saldo de gols"
+               }
+              ,
+               {
+                    "message": ["Quantos cartoes amarelo o time Santos  possui ?", "Qual o numero de cartoes amarelo que o time Santos  possui ?", "O Santos  possui quantos cartoes amarelo ?"],
+                    "response": "O Santos possui 23 cartoes amarelo"
+               }
+              ,
+               {
+                    "message": ["Quantos cartoes vermelho o time Santos  possui ?", "Qual o numero de cartoes vermelho que o time Santos  possui ?", "O Santos  possui quantos cartoes vermelho ?"],
+                    "response": "O Santos possui 0 cartoes vermelho"
+               }
+              ,
+               {
+                    "message": ["Quanto de aproveitamento o time Santos  possui ?", "Quantos porcento de aproveitamento o Santos  tem?", "Como estah o aproveitamento do Santos  ?"],
+                    "response": "O Santos tem 50 % de aproveitamento no campeonato"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Santos  Na ultima rodada ?", "O Santos  foi bem na ultima rodada?", "Na ultima rodada o Santos  foi bem?"],
+                    "response": "Na ultima rodada o Santos  Empatou"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Santos  Na penultima rodada ?", "O Santos  foi bem na penultima rodada?", "Na penultima rodada o Santos  foi bem?"],
+                    "response": "Na penultima rodada o Santos  Venceu"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Santos  na antepenultima rodada ?", "O Santos  foi bem na antepenultima rodada?", "Na antepenultima rodada o Santos  foi bem?"],
+                    "response": "Na antepenultima rodada o Santos  Empatou"
+               }
+              ,
+               {
+                    "message": ["Qual eh o estado do Juventude  ?", "O Juventude eh de qual o estado ?", "De onde o Juventude  eh ?"],
+                    "response": "O Juventude eh de Rio Grande do Sul"
+               }
+              ,
+               {
+                    "message": ["Quantos pontos o time Juventude  possui ?", "Qual a pontuacao do time Juventude  ?", "O Juventude  possui quantos pontos?"],
+                    "response": "O Juventude possui 12 pontos"
+               }
+              ,
+               {
+                    "message": ["Quantos jogos o time Juventude  fez ?", "Qual o numero de jogos do time Juventude  ?", " O Juventude  fez quantos jogos ?"],
+                    "response": "O Juventude fez 8 jogos"
+               }
+              ,
+               {
+                    "message": ["Quantas vitorias o time Juventude  possui ?", "Qual o numero de vitorias do time Juventude  ?", "O Juventude  possui quantas vitorias ?"],
+                    "response": "O Juventude possui 3 vitorias"
+               }
+              ,
+               {
+                    "message": ["Quantos empates o time Juventude  possui ?", "Qual o numero de empates do time Juventude  ?", "O Juventude  possui quantos empates ?"],
+                    "response": "O Juventude possui 3 empates"
+               }
+              ,
+               {
+                    "message": ["Quantas derrotas o time Juventude  possui ?", "Qual o numero de derrotas do time Juventude  ?", "O Juventude  possui quantas derrotas?"],
+                    "response": "O Juventude possui 2 derrotas"
+               }
+              ,
+               {
+                    "message": ["Quantos gols o time Juventude  fez ?", "Qual numero de gols que o time Juventude  fez ?", " O Juventude  fez quantos gols ?"],
+                    "response": "O Juventude fez 7 gols"
+               }
+              ,
+               {
+                    "message": ["Quantos gols o time Juventude  tomou ?", "Qual o numero de gols que o time Juventude  tomou ?", "O Juventude  tomou quantos gols?"],
+                    "response": "O Juventude tomou 9 gols"
+               }
+              ,
+               {
+                    "message": ["Quantos saldo de gols o time Juventude  possui ?", "Qual o saldo de gols do time Juventude  ?", "O Juventude  possui quantos gols de saldo ?"],
+                    "response": "O Juventude possui 2 de saldo de gols"
+               }
+              ,
+               {
+                    "message": ["Quantos cartoes amarelo o time Juventude  possui ?", "Qual o numero de cartoes amarelo que o time Juventude  possui ?", "O Juventude  possui quantos cartoes amarelo ?"],
+                    "response": "O Juventude possui 20 cartoes amarelo"
+               }
+              ,
+               {
+                    "message": ["Quantos cartoes vermelho o time Juventude  possui ?", "Qual o numero de cartoes vermelho que o time Juventude  possui ?", "O Juventude  possui quantos cartoes vermelho ?"],
+                    "response": "O Juventude possui 0 cartoes vermelho"
+               }
+              ,
+               {
+                    "message": ["Quanto de aproveitamento o time Juventude  possui ?", "Quantos porcento de aproveitamento o Juventude  tem?", "Como estah o aproveitamento do Juventude  ?"],
+                    "response": "O Juventude tem 50 % de aproveitamento no campeonato"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Juventude  Na ultima rodada ?", "O Juventude  foi bem na ultima rodada?", "Na ultima rodada o Juventude  foi bem?"],
+                    "response": "Na ultima rodada o Juventude  Venceu"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Juventude  Na penultima rodada ?", "O Juventude  foi bem na penultima rodada?", "Na penultima rodada o Juventude  foi bem?"],
+                    "response": "Na penultima rodada o Juventude  Venceu"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Juventude  na antepenultima rodada ?", "O Juventude  foi bem na antepenultima rodada?", "Na antepenultima rodada o Juventude  foi bem?"],
+                    "response": "Na antepenultima rodada o Juventude  Empatou"
+               }
+              ,
+               {
+                    "message": ["Qual eh o estado do Bahia  ?", "O Bahia eh de qual o estado ?", "De onde o Bahia  eh ?"],
+                    "response": "O Bahia eh de Bahia"
+               }
+              ,
+               {
+                    "message": ["Quantos pontos o time Bahia  possui ?", "Qual a pontuacao do time Bahia  ?", "O Bahia  possui quantos pontos?"],
+                    "response": "O Bahia possui 11 pontos"
+               }
+              ,
+               {
+                    "message": ["Quantos jogos o time Bahia  fez ?", "Qual o numero de jogos do time Bahia  ?", " O Bahia  fez quantos jogos ?"],
+                    "response": "O Bahia fez 8 jogos"
+               }
+              ,
+               {
+                    "message": ["Quantas vitorias o time Bahia  possui ?", "Qual o numero de vitorias do time Bahia  ?", "O Bahia  possui quantas vitorias ?"],
+                    "response": "O Bahia possui 3 vitorias"
+               }
+              ,
+               {
+                    "message": ["Quantos empates o time Bahia  possui ?", "Qual o numero de empates do time Bahia  ?", "O Bahia  possui quantos empates ?"],
+                    "response": "O Bahia possui 2 empates"
+               }
+              ,
+               {
+                    "message": ["Quantas derrotas o time Bahia  possui ?", "Qual o numero de derrotas do time Bahia  ?", "O Bahia  possui quantas derrotas?"],
+                    "response": "O Bahia possui 3 derrotas"
+               }
+              ,
+               {
+                    "message": ["Quantos gols o time Bahia  fez ?", "Qual numero de gols que o time Bahia  fez ?", " O Bahia  fez quantos gols ?"],
+                    "response": "O Bahia fez 15 gols"
+               }
+              ,
+               {
+                    "message": ["Quantos gols o time Bahia  tomou ?", "Qual o numero de gols que o time Bahia  tomou ?", "O Bahia  tomou quantos gols?"],
+                    "response": "O Bahia tomou 13 gols"
+               }
+              ,
+               {
+                    "message": ["Quantos saldo de gols o time Bahia  possui ?", "Qual o saldo de gols do time Bahia  ?", "O Bahia  possui quantos gols de saldo ?"],
+                    "response": "O Bahia possui 2 de saldo de gols"
+               }
+              ,
+               {
+                    "message": ["Quantos cartoes amarelo o time Bahia  possui ?", "Qual o numero de cartoes amarelo que o time Bahia  possui ?", "O Bahia  possui quantos cartoes amarelo ?"],
+                    "response": "O Bahia possui 30 cartoes amarelo"
+               }
+              ,
+               {
+                    "message": ["Quantos cartoes vermelho o time Bahia  possui ?", "Qual o numero de cartoes vermelho que o time Bahia  possui ?", "O Bahia  possui quantos cartoes vermelho ?"],
+                    "response": "O Bahia possui 0 cartoes vermelho"
+               }
+              ,
+               {
+                    "message": ["Quanto de aproveitamento o time Bahia  possui ?", "Quantos porcento de aproveitamento o Bahia  tem?", "Como estah o aproveitamento do Bahia  ?"],
+                    "response": "O Bahia tem 45 % de aproveitamento no campeonato"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Bahia  Na ultima rodada ?", "O Bahia  foi bem na ultima rodada?", "Na ultima rodada o Bahia  foi bem?"],
+                    "response": "Na ultima rodada o Bahia  Perdeu"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Bahia  Na penultima rodada ?", "O Bahia  foi bem na penultima rodada?", "Na penultima rodada o Bahia  foi bem?"],
+                    "response": "Na penultima rodada o Bahia  Perdeu"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Bahia  na antepenultima rodada ?", "O Bahia  foi bem na antepenultima rodada?", "Na antepenultima rodada o Bahia  foi bem?"],
+                    "response": "Na antepenultima rodada o Bahia  Venceu"
+               }
+              ,
+               {
+                    "message": ["Qual eh o estado do Atletico  ?", "O Atletico eh de qual o estado ?", "De onde o Atletico  eh ?"],
+                    "response": "O Atletico eh de Goias"
+               }
+              ,
+               {
+                    "message": ["Quantos pontos o time Atletico  possui ?", "Qual a pontuacao do time Atletico  ?", "O Atletico  possui quantos pontos?"],
+                    "response": "O Atletico possui 10 pontos"
+               }
+              ,
+               {
+                    "message": ["Quantos jogos o time Atletico  fez ?", "Qual o numero de jogos do time Atletico  ?", " O Atletico  fez quantos jogos ?"],
+                    "response": "O Atletico fez 7 jogos"
+               }
+              ,
+               {
+                    "message": ["Quantas vitorias o time Atletico  possui ?", "Qual o numero de vitorias do time Atletico  ?", "O Atletico  possui quantas vitorias ?"],
+                    "response": "O Atletico possui 3 vitorias"
+               }
+              ,
+               {
+                    "message": ["Quantos empates o time Atletico  possui ?", "Qual o numero de empates do time Atletico  ?", "O Atletico  possui quantos empates ?"],
+                    "response": "O Atletico possui 1 empates"
+               }
+              ,
+               {
+                    "message": ["Quantas derrotas o time Atletico  possui ?", "Qual o numero de derrotas do time Atletico  ?", "O Atletico  possui quantas derrotas?"],
+                    "response": "O Atletico possui 3 derrotas"
+               }
+              ,
+               {
+                    "message": ["Quantos gols o time Atletico  fez ?", "Qual numero de gols que o time Atletico  fez ?", " O Atletico  fez quantos gols ?"],
+                    "response": "O Atletico fez 6 gols"
+               }
+              ,
+               {
+                    "message": ["Quantos gols o time Atletico  tomou ?", "Qual o numero de gols que o time Atletico  tomou ?", "O Atletico  tomou quantos gols?"],
+                    "response": "O Atletico tomou 7 gols"
+               }
+              ,
+               {
+                    "message": ["Quantos saldo de gols o time Atletico  possui ?", "Qual o saldo de gols do time Atletico  ?", "O Atletico  possui quantos gols de saldo ?"],
+                    "response": "O Atletico possui 1 de saldo de gols"
+               }
+              ,
+               {
+                    "message": ["Quantos cartoes amarelo o time Atletico  possui ?", "Qual o numero de cartoes amarelo que o time Atletico  possui ?", "O Atletico  possui quantos cartoes amarelo ?"],
+                    "response": "O Atletico possui 20 cartoes amarelo"
+               }
+              ,
+               {
+                    "message": ["Quantos cartoes vermelho o time Atletico  possui ?", "Qual o numero de cartoes vermelho que o time Atletico  possui ?", "O Atletico  possui quantos cartoes vermelho ?"],
+                    "response": "O Atletico possui 1 cartoes vermelho"
+               }
+              ,
+               {
+                    "message": ["Quanto de aproveitamento o time Atletico  possui ?", "Quantos porcento de aproveitamento o Atletico  tem?", "Como estah o aproveitamento do Atletico  ?"],
+                    "response": "O Atletico tem 47 % de aproveitamento no campeonato"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Atletico  Na ultima rodada ?", "O Atletico  foi bem na ultima rodada?", "Na ultima rodada o Atletico  foi bem?"],
+                    "response": "Na ultima rodada o Atletico  Perdeu"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Atletico  Na penultima rodada ?", "O Atletico  foi bem na penultima rodada?", "Na penultima rodada o Atletico  foi bem?"],
+                    "response": "Na penultima rodada o Atletico  Perdeu"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Atletico  na antepenultima rodada ?", "O Atletico  foi bem na antepenultima rodada?", "Na antepenultima rodada o Atletico  foi bem?"],
+                    "response": "Na antepenultima rodada o Atletico  Venceu"
+               }
+              ,
+               {
+                    "message": ["Qual eh o estado do Corinthians  ?", "O Corinthians eh de qual o estado ?", "De onde o Corinthians  eh ?"],
+                    "response": "O Corinthians eh de Sao Paulo"
+               }
+              ,
+               {
+                    "message": ["Quantos pontos o time Corinthians  possui ?", "Qual a pontuacao do time Corinthians  ?", "O Corinthians  possui quantos pontos?"],
+                    "response": "O Corinthians possui 10 pontos"
+               }
+              ,
+               {
+                    "message": ["Quantos jogos o time Corinthians  fez ?", "Qual o numero de jogos do time Corinthians  ?", " O Corinthians  fez quantos jogos ?"],
+                    "response": "O Corinthians fez 8 jogos"
+               }
+              ,
+               {
+                    "message": ["Quantas vitorias o time Corinthians  possui ?", "Qual o numero de vitorias do time Corinthians  ?", "O Corinthians  possui quantas vitorias ?"],
+                    "response": "O Corinthians possui 2 vitorias"
+               }
+              ,
+               {
+                    "message": ["Quantos empates o time Corinthians  possui ?", "Qual o numero de empates do time Corinthians  ?", "O Corinthians  possui quantos empates ?"],
+                    "response": "O Corinthians possui 4 empates"
+               }
+              ,
+               {
+                    "message": ["Quantas derrotas o time Corinthians  possui ?", "Qual o numero de derrotas do time Corinthians  ?", "O Corinthians  possui quantas derrotas?"],
+                    "response": "O Corinthians possui 2 derrotas"
+               }
+              ,
+               {
+                    "message": ["Quantos gols o time Corinthians  fez ?", "Qual numero de gols que o time Corinthians  fez ?", " O Corinthians  fez quantos gols ?"],
+                    "response": "O Corinthians fez 6 gols"
+               }
+              ,
+               {
+                    "message": ["Quantos gols o time Corinthians  tomou ?", "Qual o numero de gols que o time Corinthians  tomou ?", "O Corinthians  tomou quantos gols?"],
+                    "response": "O Corinthians tomou 6 gols"
+               }
+              ,
+               {
+                    "message": ["Quantos saldo de gols o time Corinthians  possui ?", "Qual o saldo de gols do time Corinthians  ?", "O Corinthians  possui quantos gols de saldo ?"],
+                    "response": "O Corinthians possui 0 de saldo de gols"
+               }
+              ,
+               {
+                    "message": ["Quantos cartoes amarelo o time Corinthians  possui ?", "Qual o numero de cartoes amarelo que o time Corinthians  possui ?", "O Corinthians  possui quantos cartoes amarelo ?"],
+                    "response": "O Corinthians possui 15 cartoes amarelo"
+               }
+              ,
+               {
+                    "message": ["Quantos cartoes vermelho o time Corinthians  possui ?", "Qual o numero de cartoes vermelho que o time Corinthians  possui ?", "O Corinthians  possui quantos cartoes vermelho ?"],
+                    "response": "O Corinthians possui 0 cartoes vermelho"
+               }
+              ,
+               {
+                    "message": ["Quanto de aproveitamento o time Corinthians  possui ?", "Quantos porcento de aproveitamento o Corinthians  tem?", "Como estah o aproveitamento do Corinthians  ?"],
+                    "response": "O Corinthians tem 41 % de aproveitamento no campeonato"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Corinthians  Na ultima rodada ?", "O Corinthians  foi bem na ultima rodada?", "Na ultima rodada o Corinthians  foi bem?"],
+                    "response": "Na ultima rodada o Corinthians  Empatou"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Corinthians  Na penultima rodada ?", "O Corinthians  foi bem na penultima rodada?", "Na penultima rodada o Corinthians  foi bem?"],
+                    "response": "Na penultima rodada o Corinthians  Empatou"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Corinthians  na antepenultima rodada ?", "O Corinthians  foi bem na antepenultima rodada?", "Na antepenultima rodada o Corinthians  foi bem?"],
+                    "response": "Na antepenultima rodada o Corinthians  Venceu"
+               }
+              ,
+               {
+                    "message": ["Qual eh o estado do Ceara  ?", "O Ceara eh de qual o estado ?", "De onde o Ceara  eh ?"],
+                    "response": "O Ceara eh de Ceara"
+               }
+              ,
+               {
+                    "message": ["Quantos pontos o time Ceara  possui ?", "Qual a pontuacao do time Ceara  ?", "O Ceara  possui quantos pontos?"],
+                    "response": "O Ceara possui 10 pontos"
+               }
+              ,
+               {
+                    "message": ["Quantos jogos o time Ceara  fez ?", "Qual o numero de jogos do time Ceara  ?", " O Ceara  fez quantos jogos ?"],
+                    "response": "O Ceara fez 8 jogos"
+               }
+              ,
+               {
+                    "message": ["Quantas vitorias o time Ceara  possui ?", "Qual o numero de vitorias do time Ceara  ?", "O Ceara  possui quantas vitorias ?"],
+                    "response": "O Ceara possui 2 vitorias"
+               }
+              ,
+               {
+                    "message": ["Quantos empates o time Ceara  possui ?", "Qual o numero de empates do time Ceara  ?", "O Ceara  possui quantos empates ?"],
+                    "response": "O Ceara possui 4 empates"
+               }
+              ,
+               {
+                    "message": ["Quantas derrotas o time Ceara  possui ?", "Qual o numero de derrotas do time Ceara  ?", "O Ceara  possui quantas derrotas?"],
+                    "response": "O Ceara possui 2 derrotas"
+               }
+              ,
+               {
+                    "message": ["Quantos gols o time Ceara  fez ?", "Qual numero de gols que o time Ceara  fez ?", " O Ceara  fez quantos gols ?"],
+                    "response": "O Ceara fez 9 gols"
+               }
+              ,
+               {
+                    "message": ["Quantos gols o time Ceara  tomou ?", "Qual o numero de gols que o time Ceara  tomou ?", "O Ceara  tomou quantos gols?"],
+                    "response": "O Ceara tomou 10 gols"
+               }
+              ,
+               {
+                    "message": ["Quantos saldo de gols o time Ceara  possui ?", "Qual o saldo de gols do time Ceara  ?", "O Ceara  possui quantos gols de saldo ?"],
+                    "response": "O Ceara possui 1 de saldo de gols"
+               }
+              ,
+               {
+                    "message": ["Quantos cartoes amarelo o time Ceara  possui ?", "Qual o numero de cartoes amarelo que o time Ceara  possui ?", "O Ceara  possui quantos cartoes amarelo ?"],
+                    "response": "O Ceara possui 22 cartoes amarelo"
+               }
+              ,
+               {
+                    "message": ["Quantos cartoes vermelho o time Ceara  possui ?", "Qual o numero de cartoes vermelho que o time Ceara  possui ?", "O Ceara  possui quantos cartoes vermelho ?"],
+                    "response": "O Ceara possui 1 cartoes vermelho"
+               }
+              ,
+               {
+                    "message": ["Quanto de aproveitamento o time Ceara  possui ?", "Quantos porcento de aproveitamento o Ceara  tem?", "Como estah o aproveitamento do Ceara  ?"],
+                    "response": "O Ceara tem 41 % de aproveitamento no campeonato"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Ceara  Na ultima rodada ?", "O Ceara  foi bem na ultima rodada?", "Na ultima rodada o Ceara  foi bem?"],
+                    "response": "Na ultima rodada o Ceara  Empatou"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Ceara  Na penultima rodada ?", "O Ceara  foi bem na penultima rodada?", "Na penultima rodada o Ceara  foi bem?"],
+                    "response": "Na penultima rodada o Ceara  Empatou"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Ceara  na antepenultima rodada ?", "O Ceara  foi bem na antepenultima rodada?", "Na antepenultima rodada o Ceara  foi bem?"],
+                    "response": "Na antepenultima rodada o Ceara  Venceu"
+               }
+              ,
+               {
+                    "message": ["Qual eh o estado do Fluminense  ?", "O Fluminense eh de qual o estado ?", "De onde o Fluminense  eh ?"],
+                    "response": "O Fluminense eh de Rio de Janeiro"
+               }
+              ,
+               {
+                    "message": ["Quantos pontos o time Fluminense  possui ?", "Qual a pontuacao do time Fluminense  ?", "O Fluminense  possui quantos pontos?"],
+                    "response": "O Fluminense possui 10 pontos"
+               }
+              ,
+               {
+                    "message": ["Quantos jogos o time Fluminense  fez ?", "Qual o numero de jogos do time Fluminense  ?", " O Fluminense  fez quantos jogos ?"],
+                    "response": "O Fluminense fez 8 jogos"
+               }
+              ,
+               {
+                    "message": ["Quantas vitorias o time Fluminense  possui ?", "Qual o numero de vitorias do time Fluminense  ?", "O Fluminense  possui quantas vitorias ?"],
+                    "response": "O Fluminense possui 2 vitorias"
+               }
+              ,
+               {
+                    "message": ["Quantos empates o time Fluminense  possui ?", "Qual o numero de empates do time Fluminense  ?", "O Fluminense  possui quantos empates ?"],
+                    "response": "O Fluminense possui 4 empates"
+               }
+              ,
+               {
+                    "message": ["Quantas derrotas o time Fluminense  possui ?", "Qual o numero de derrotas do time Fluminense  ?", "O Fluminense  possui quantas derrotas?"],
+                    "response": "O Fluminense possui 2 derrotas"
+               }
+              ,
+               {
+                    "message": ["Quantos gols o time Fluminense  fez ?", "Qual numero de gols que o time Fluminense  fez ?", " O Fluminense  fez quantos gols ?"],
+                    "response": "O Fluminense fez 7 gols"
+               }
+              ,
+               {
+                    "message": ["Quantos gols o time Fluminense  tomou ?", "Qual o numero de gols que o time Fluminense  tomou ?", "O Fluminense  tomou quantos gols?"],
+                    "response": "O Fluminense tomou 9 gols"
+               }
+              ,
+               {
+                    "message": ["Quantos saldo de gols o time Fluminense  possui ?", "Qual o saldo de gols do time Fluminense  ?", "O Fluminense  possui quantos gols de saldo ?"],
+                    "response": "O Fluminense possui 2 de saldo de gols"
+               }
+              ,
+               {
+                    "message": ["Quantos cartoes amarelo o time Fluminense  possui ?", "Qual o numero de cartoes amarelo que o time Fluminense  possui ?", "O Fluminense  possui quantos cartoes amarelo ?"],
+                    "response": "O Fluminense possui 19 cartoes amarelo"
+               }
+              ,
+               {
+                    "message": ["Quantos cartoes vermelho o time Fluminense  possui ?", "Qual o numero de cartoes vermelho que o time Fluminense  possui ?", "O Fluminense  possui quantos cartoes vermelho ?"],
+                    "response": "O Fluminense possui 1 cartoes vermelho"
+               }
+              ,
+               {
+                    "message": ["Quanto de aproveitamento o time Fluminense  possui ?", "Quantos porcento de aproveitamento o Fluminense  tem?", "Como estah o aproveitamento do Fluminense  ?"],
+                    "response": "O Fluminense tem 41 % de aproveitamento no campeonato"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Fluminense  Na ultima rodada ?", "O Fluminense  foi bem na ultima rodada?", "Na ultima rodada o Fluminense  foi bem?"],
+                    "response": "Na ultima rodada o Fluminense  Perdeu"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Fluminense  Na penultima rodada ?", "O Fluminense  foi bem na penultima rodada?", "Na penultima rodada o Fluminense  foi bem?"],
+                    "response": "Na penultima rodada o Fluminense  Empatou"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Fluminense  na antepenultima rodada ?", "O Fluminense  foi bem na antepenultima rodada?", "Na antepenultima rodada o Fluminense  foi bem?"],
+                    "response": "Na antepenultima rodada o Fluminense  Perdeu"
+               }
+              ,
+               {
+                    "message": ["Qual eh o estado do Internacional  ?", "O Internacional eh de qual o estado ?", "De onde o Internacional  eh ?"],
+                    "response": "O Internacional eh de Rio Grande do Sul"
+               }
+              ,
+               {
+                    "message": ["Quantos pontos o time Internacional  possui ?", "Qual a pontuacao do time Internacional  ?", "O Internacional  possui quantos pontos?"],
+                    "response": "O Internacional possui 9 pontos"
+               }
+              ,
+               {
+                    "message": ["Quantos jogos o time Internacional  fez ?", "Qual o numero de jogos do time Internacional  ?", " O Internacional  fez quantos jogos ?"],
+                    "response": "O Internacional fez 8 jogos"
+               }
+              ,
+               {
+                    "message": ["Quantas vitorias o time Internacional  possui ?", "Qual o numero de vitorias do time Internacional  ?", "O Internacional  possui quantas vitorias ?"],
+                    "response": "O Internacional possui 2 vitorias"
+               }
+              ,
+               {
+                    "message": ["Quantos empates o time Internacional  possui ?", "Qual o numero de empates do time Internacional  ?", "O Internacional  possui quantos empates ?"],
+                    "response": "O Internacional possui 3 empates"
+               }
+              ,
+               {
+                    "message": ["Quantas derrotas o time Internacional  possui ?", "Qual o numero de derrotas do time Internacional  ?", "O Internacional  possui quantas derrotas?"],
+                    "response": "O Internacional possui 3 derrotas"
+               }
+              ,
+               {
+                    "message": ["Quantos gols o time Internacional  fez ?", "Qual numero de gols que o time Internacional  fez ?", " O Internacional  fez quantos gols ?"],
+                    "response": "O Internacional fez 9 gols"
+               }
+              ,
+               {
+                    "message": ["Quantos gols o time Internacional  tomou ?", "Qual o numero de gols que o time Internacional  tomou ?", "O Internacional  tomou quantos gols?"],
+                    "response": "O Internacional tomou 13 gols"
+               }
+              ,
+               {
+                    "message": ["Quantos saldo de gols o time Internacional  possui ?", "Qual o saldo de gols do time Internacional  ?", "O Internacional  possui quantos gols de saldo ?"],
+                    "response": "O Internacional possui 4 de saldo de gols"
+               }
+              ,
+               {
+                    "message": ["Quantos cartoes amarelo o time Internacional  possui ?", "Qual o numero de cartoes amarelo que o time Internacional  possui ?", "O Internacional  possui quantos cartoes amarelo ?"],
+                    "response": "O Internacional possui 26 cartoes amarelo"
+               }
+              ,
+               {
+                    "message": ["Quantos cartoes vermelho o time Internacional  possui ?", "Qual o numero de cartoes vermelho que o time Internacional  possui ?", "O Internacional  possui quantos cartoes vermelho ?"],
+                    "response": "O Internacional possui 5 cartoes vermelho"
+               }
+              ,
+               {
+                    "message": ["Quanto de aproveitamento o time Internacional  possui ?", "Quantos porcento de aproveitamento o Internacional  tem?", "Como estah o aproveitamento do Internacional  ?"],
+                    "response": "O Internacional tem 37 % de aproveitamento no campeonato"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Internacional  Na ultima rodada ?", "O Internacional  foi bem na ultima rodada?", "Na ultima rodada o Internacional  foi bem?"],
+                    "response": "Na ultima rodada o Internacional  Perdeu"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Internacional  Na penultima rodada ?", "O Internacional  foi bem na penultima rodada?", "Na penultima rodada o Internacional  foi bem?"],
+                    "response": "Na penultima rodada o Internacional  Empatou"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Internacional  na antepenultima rodada ?", "O Internacional  foi bem na antepenultima rodada?", "Na antepenultima rodada o Internacional  foi bem?"],
+                    "response": "Na antepenultima rodada o Internacional  Venceu"
+               }
+              ,
+               {
+                    "message": ["Qual eh o estado do Sport  ?", "O Sport eh de qual o estado ?", "De onde o Sport  eh ?"],
+                    "response": "O Sport eh de Pernambuco"
+               }
+              ,
+               {
+                    "message": ["Quantos pontos o time Sport  possui ?", "Qual a pontuacao do time Sport  ?", "O Sport  possui quantos pontos?"],
+                    "response": "O Sport possui 6 pontos"
+               }
+              ,
+               {
+                    "message": ["Quantos jogos o time Sport  fez ?", "Qual o numero de jogos do time Sport  ?", " O Sport  fez quantos jogos ?"],
+                    "response": "O Sport fez 8 jogos"
+               }
+              ,
+               {
+                    "message": ["Quantas vitorias o time Sport  possui ?", "Qual o numero de vitorias do time Sport  ?", "O Sport  possui quantas vitorias ?"],
+                    "response": "O Sport possui 1 vitorias"
+               }
+              ,
+               {
+                    "message": ["Quantos empates o time Sport  possui ?", "Qual o numero de empates do time Sport  ?", "O Sport  possui quantos empates ?"],
+                    "response": "O Sport possui 3 empates"
+               }
+              ,
+               {
+                    "message": ["Quantas derrotas o time Sport  possui ?", "Qual o numero de derrotas do time Sport  ?", "O Sport  possui quantas derrotas?"],
+                    "response": "O Sport possui 4 derrotas"
+               }
+              ,
+               {
+                    "message": ["Quantos gols o time Sport  fez ?", "Qual numero de gols que o time Sport  fez ?", " O Sport  fez quantos gols ?"],
+                    "response": "O Sport fez 4 gols"
+               }
+              ,
+               {
+                    "message": ["Quantos gols o time Sport  tomou ?", "Qual o numero de gols que o time Sport  tomou ?", "O Sport  tomou quantos gols?"],
+                    "response": "O Sport tomou 7 gols"
+               }
+              ,
+               {
+                    "message": ["Quantos saldo de gols o time Sport  possui ?", "Qual o saldo de gols do time Sport  ?", "O Sport  possui quantos gols de saldo ?"],
+                    "response": "O Sport possui 3 de saldo de gols"
+               }
+              ,
+               {
+                    "message": ["Quantos cartoes amarelo o time Sport  possui ?", "Qual o numero de cartoes amarelo que o time Sport  possui ?", "O Sport  possui quantos cartoes amarelo ?"],
+                    "response": "O Sport possui 22 cartoes amarelo"
+               }
+              ,
+               {
+                    "message": ["Quantos cartoes vermelho o time Sport  possui ?", "Qual o numero de cartoes vermelho que o time Sport  possui ?", "O Sport  possui quantos cartoes vermelho ?"],
+                    "response": "O Sport possui 1 cartoes vermelho"
+               }
+              ,
+               {
+                    "message": ["Quanto de aproveitamento o time Sport  possui ?", "Quantos porcento de aproveitamento o Sport  tem?", "Como estah o aproveitamento do Sport  ?"],
+                    "response": "O Sport tem 25 % de aproveitamento no campeonato"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Sport  Na ultima rodada ?", "O Sport  foi bem na ultima rodada?", "Na ultima rodada o Sport  foi bem?"],
+                    "response": "Na ultima rodada o Sport  Empatou"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Sport  Na penultima rodada ?", "O Sport  foi bem na penultima rodada?", "Na penultima rodada o Sport  foi bem?"],
+                    "response": "Na penultima rodada o Sport  Empatou"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Sport  na antepenultima rodada ?", "O Sport  foi bem na antepenultima rodada?", "Na antepenultima rodada o Sport  foi bem?"],
+                    "response": "Na antepenultima rodada o Sport  Perdeu"
+               }
+              ,
+               {
+                    "message": ["Qual eh o estado do America  ?", "O America eh de qual o estado ?", "De onde o America  eh ?"],
+                    "response": "O America eh de Minas Gerais"
+               }
+              ,
+               {
+                    "message": ["Quantos pontos o time America  possui ?", "Qual a pontuacao do time America  ?", "O America  possui quantos pontos?"],
+                    "response": "O America possui 6 pontos"
+               }
+              ,
+               {
+                    "message": ["Quantos jogos o time America  fez ?", "Qual o numero de jogos do time America  ?", " O America  fez quantos jogos ?"],
+                    "response": "O America fez 8 jogos"
+               }
+              ,
+               {
+                    "message": ["Quantas vitorias o time America  possui ?", "Qual o numero de vitorias do time America  ?", "O America  possui quantas vitorias ?"],
+                    "response": "O America possui 1 vitorias"
+               }
+              ,
+               {
+                    "message": ["Quantos empates o time America  possui ?", "Qual o numero de empates do time America  ?", "O America  possui quantos empates ?"],
+                    "response": "O America possui 3 empates"
+               }
+              ,
+               {
+                    "message": ["Quantas derrotas o time America  possui ?", "Qual o numero de derrotas do time America  ?", "O America  possui quantas derrotas?"],
+                    "response": "O America possui 4 derrotas"
+               }
+              ,
+               {
+                    "message": ["Quantos gols o time America  fez ?", "Qual numero de gols que o time America  fez ?", " O America  fez quantos gols ?"],
+                    "response": "O America fez 7 gols"
+               }
+              ,
+               {
+                    "message": ["Quantos gols o time America  tomou ?", "Qual o numero de gols que o time America  tomou ?", "O America  tomou quantos gols?"],
+                    "response": "O America tomou 11 gols"
+               }
+              ,
+               {
+                    "message": ["Quantos saldo de gols o time America  possui ?", "Qual o saldo de gols do time America  ?", "O America  possui quantos gols de saldo ?"],
+                    "response": "O America possui 4 de saldo de gols"
+               }
+              ,
+               {
+                    "message": ["Quantos cartoes amarelo o time America  possui ?", "Qual o numero de cartoes amarelo que o time America  possui ?", "O America  possui quantos cartoes amarelo ?"],
+                    "response": "O America possui 13 cartoes amarelo"
+               }
+              ,
+               {
+                    "message": ["Quantos cartoes vermelho o time America  possui ?", "Qual o numero de cartoes vermelho que o time America  possui ?", "O America  possui quantos cartoes vermelho ?"],
+                    "response": "O America possui 2 cartoes vermelho"
+               }
+              ,
+               {
+                    "message": ["Quanto de aproveitamento o time America  possui ?", "Quantos porcento de aproveitamento o America  tem?", "Como estah o aproveitamento do America  ?"],
+                    "response": "O America tem 25 % de aproveitamento no campeonato"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time America  Na ultima rodada ?", "O America  foi bem na ultima rodada?", "Na ultima rodada o America  foi bem?"],
+                    "response": "Na ultima rodada o America  Venceu"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time America  Na penultima rodada ?", "O America  foi bem na penultima rodada?", "Na penultima rodada o America  foi bem?"],
+                    "response": "Na penultima rodada o America  Empatou"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time America  na antepenultima rodada ?", "O America  foi bem na antepenultima rodada?", "Na antepenultima rodada o America  foi bem?"],
+                    "response": "Na antepenultima rodada o America  Empatou"
+               }
+              ,
+               {
+                    "message": ["Qual eh o estado do Sao Paulo  ?", "O Sao Paulo eh de qual o estado ?", "De onde o Sao Paulo  eh ?"],
+                    "response": "O Sao Paulo eh de Sao Paulo"
+               }
+              ,
+               {
+                    "message": ["Quantos pontos o time Sao Paulo  possui ?", "Qual a pontuacao do time Sao Paulo  ?", "O Sao Paulo  possui quantos pontos?"],
+                    "response": "O Sao Paulo possui 5 pontos"
+               }
+              ,
+               {
+                    "message": ["Quantos jogos o time Sao Paulo  fez ?", "Qual o numero de jogos do time Sao Paulo  ?", " O Sao Paulo  fez quantos jogos ?"],
+                    "response": "O Sao Paulo fez 8 jogos"
+               }
+              ,
+               {
+                    "message": ["Quantas vitorias o time Sao Paulo  possui ?", "Qual o numero de vitorias do time Sao Paulo  ?", "O Sao Paulo  possui quantas vitorias ?"],
+                    "response": "O Sao Paulo possui 0 vitorias"
+               }
+              ,
+               {
+                    "message": ["Quantos empates o time Sao Paulo  possui ?", "Qual o numero de empates do time Sao Paulo  ?", "O Sao Paulo  possui quantos empates ?"],
+                    "response": "O Sao Paulo possui 5 empates"
+               }
+              ,
+               {
+                    "message": ["Quantas derrotas o time Sao Paulo  possui ?", "Qual o numero de derrotas do time Sao Paulo  ?", "O Sao Paulo  possui quantas derrotas?"],
+                    "response": "O Sao Paulo possui 3 derrotas"
+               }
+              ,
+               {
+                    "message": ["Quantos gols o time Sao Paulo  fez ?", "Qual numero de gols que o time Sao Paulo  fez ?", " O Sao Paulo  fez quantos gols ?"],
+                    "response": "O Sao Paulo fez 4 gols"
+               }
+              ,
+               {
+                    "message": ["Quantos gols o time Sao Paulo  tomou ?", "Qual o numero de gols que o time Sao Paulo  tomou ?", "O Sao Paulo  tomou quantos gols?"],
+                    "response": "O Sao Paulo tomou 9 gols"
+               }
+              ,
+               {
+                    "message": ["Quantos saldo de gols o time Sao Paulo  possui ?", "Qual o saldo de gols do time Sao Paulo  ?", "O Sao Paulo  possui quantos gols de saldo ?"],
+                    "response": "O Sao Paulo possui 5 de saldo de gols"
+               }
+              ,
+               {
+                    "message": ["Quantos cartoes amarelo o time Sao Paulo  possui ?", "Qual o numero de cartoes amarelo que o time Sao Paulo  possui ?", "O Sao Paulo  possui quantos cartoes amarelo ?"],
+                    "response": "O Sao Paulo possui 25 cartoes amarelo"
+               }
+              ,
+               {
+                    "message": ["Quantos cartoes vermelho o time Sao Paulo  possui ?", "Qual o numero de cartoes vermelho que o time Sao Paulo  possui ?", "O Sao Paulo  possui quantos cartoes vermelho ?"],
+                    "response": "O Sao Paulo possui 2 cartoes vermelho"
+               }
+              ,
+               {
+                    "message": ["Quanto de aproveitamento o time Sao Paulo  possui ?", "Quantos porcento de aproveitamento o Sao Paulo  tem?", "Como estah o aproveitamento do Sao Paulo  ?"],
+                    "response": "O Sao Paulo tem 20 % de aproveitamento no campeonato"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Sao Paulo  Na ultima rodada ?", "O Sao Paulo  foi bem na ultima rodada?", "Na ultima rodada o Sao Paulo  foi bem?"],
+                    "response": "Na ultima rodada o Sao Paulo  Empatou"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Sao Paulo  Na penultima rodada ?", "O Sao Paulo  foi bem na penultima rodada?", "Na penultima rodada o Sao Paulo  foi bem?"],
+                    "response": "Na penultima rodada o Sao Paulo  Empatou"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Sao Paulo  na antepenultima rodada ?", "O Sao Paulo  foi bem na antepenultima rodada?", "Na antepenultima rodada o Sao Paulo  foi bem?"],
+                    "response": "Na antepenultima rodada o Sao Paulo  Empatou"
+               }
+              ,
+               {
+                    "message": ["Qual eh o estado do Cuiaba  ?", "O Cuiaba eh de qual o estado ?", "De onde o Cuiaba  eh ?"],
+                    "response": "O Cuiaba eh de Mato Grosso"
+               }
+              ,
+               {
+                    "message": ["Quantos pontos o time Cuiaba  possui ?", "Qual a pontuacao do time Cuiaba  ?", "O Cuiaba  possui quantos pontos?"],
+                    "response": "O Cuiaba possui 4 pontos"
+               }
+              ,
+               {
+                    "message": ["Quantos jogos o time Cuiaba  fez ?", "Qual o numero de jogos do time Cuiaba  ?", " O Cuiaba  fez quantos jogos ?"],
+                    "response": "O Cuiaba fez 6 jogos"
+               }
+              ,
+               {
+                    "message": ["Quantas vitorias o time Cuiaba  possui ?", "Qual o numero de vitorias do time Cuiaba  ?", "O Cuiaba  possui quantas vitorias ?"],
+                    "response": "O Cuiaba possui 0 vitorias"
+               }
+              ,
+               {
+                    "message": ["Quantos empates o time Cuiaba  possui ?", "Qual o numero de empates do time Cuiaba  ?", "O Cuiaba  possui quantos empates ?"],
+                    "response": "O Cuiaba possui 4 empates"
+               }
+              ,
+               {
+                    "message": ["Quantas derrotas o time Cuiaba  possui ?", "Qual o numero de derrotas do time Cuiaba  ?", "O Cuiaba  possui quantas derrotas?"],
+                    "response": "O Cuiaba possui 2 derrotas"
+               }
+              ,
+               {
+                    "message": ["Quantos gols o time Cuiaba  fez ?", "Qual numero de gols que o time Cuiaba  fez ?", " O Cuiaba  fez quantos gols ?"],
+                    "response": "O Cuiaba fez 4 gols"
+               }
+              ,
+               {
+                    "message": ["Quantos gols o time Cuiaba  tomou ?", "Qual o numero de gols que o time Cuiaba  tomou ?", "O Cuiaba  tomou quantos gols?"],
+                    "response": "O Cuiaba tomou 7 gols"
+               }
+              ,
+               {
+                    "message": ["Quantos saldo de gols o time Cuiaba  possui ?", "Qual o saldo de gols do time Cuiaba  ?", "O Cuiaba  possui quantos gols de saldo ?"],
+                    "response": "O Cuiaba possui 3 de saldo de gols"
+               }
+              ,
+               {
+                    "message": ["Quantos cartoes amarelo o time Cuiaba  possui ?", "Qual o numero de cartoes amarelo que o time Cuiaba  possui ?", "O Cuiaba  possui quantos cartoes amarelo ?"],
+                    "response": "O Cuiaba possui 8 cartoes amarelo"
+               }
+              ,
+               {
+                    "message": ["Quantos cartoes vermelho o time Cuiaba  possui ?", "Qual o numero de cartoes vermelho que o time Cuiaba  possui ?", "O Cuiaba  possui quantos cartoes vermelho ?"],
+                    "response": "O Cuiaba possui 0 cartoes vermelho"
+               }
+              ,
+               {
+                    "message": ["Quanto de aproveitamento o time Cuiaba  possui ?", "Quantos porcento de aproveitamento o Cuiaba  tem?", "Como estah o aproveitamento do Cuiaba  ?"],
+                    "response": "O Cuiaba tem 22 % de aproveitamento no campeonato"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Cuiaba  Na ultima rodada ?", "O Cuiaba  foi bem na ultima rodada?", "Na ultima rodada o Cuiaba  foi bem?"],
+                    "response": "Na ultima rodada o Cuiaba  Perdeu"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Cuiaba  Na penultima rodada ?", "O Cuiaba  foi bem na penultima rodada?", "Na penultima rodada o Cuiaba  foi bem?"],
+                    "response": "Na penultima rodada o Cuiaba  Empatou"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Cuiaba  na antepenultima rodada ?", "O Cuiaba  foi bem na antepenultima rodada?", "Na antepenultima rodada o Cuiaba  foi bem?"],
+                    "response": "Na antepenultima rodada o Cuiaba  Empatou"
+               }
+              ,
+               {
+                    "message": ["Qual eh o estado do Chapecoense  ?", "O Chapecoense eh de qual o estado ?", "De onde o Chapecoense  eh ?"],
+                    "response": "O Chapecoense eh de Santa Catarina"
+               }
+              ,
+               {
+                    "message": ["Quantos pontos o time Chapecoense  possui ?", "Qual a pontuacao do time Chapecoense  ?", "O Chapecoense  possui quantos pontos?"],
+                    "response": "O Chapecoense possui 4 pontos"
+               }
+              ,
+               {
+                    "message": ["Quantos jogos o time Chapecoense  fez ?", "Qual o numero de jogos do time Chapecoense  ?", " O Chapecoense  fez quantos jogos ?"],
+                    "response": "O Chapecoense fez 8 jogos"
+               }
+              ,
+               {
+                    "message": ["Quantas vitorias o time Chapecoense  possui ?", "Qual o numero de vitorias do time Chapecoense  ?", "O Chapecoense  possui quantas vitorias ?"],
+                    "response": "O Chapecoense possui 0 vitorias"
+               }
+              ,
+               {
+                    "message": ["Quantos empates o time Chapecoense  possui ?", "Qual o numero de empates do time Chapecoense  ?", "O Chapecoense  possui quantos empates ?"],
+                    "response": "O Chapecoense possui 4 empates"
+               }
+              ,
+               {
+                    "message": ["Quantas derrotas o time Chapecoense  possui ?", "Qual o numero de derrotas do time Chapecoense  ?", "O Chapecoense  possui quantas derrotas?"],
+                    "response": "O Chapecoense possui 4 derrotas"
+               }
+              ,
+               {
+                    "message": ["Quantos gols o time Chapecoense  fez ?", "Qual numero de gols que o time Chapecoense  fez ?", " O Chapecoense  fez quantos gols ?"],
+                    "response": "O Chapecoense fez 8 gols"
+               }
+              ,
+               {
+                    "message": ["Quantos gols o time Chapecoense  tomou ?", "Qual o numero de gols que o time Chapecoense  tomou ?", "O Chapecoense  tomou quantos gols?"],
+                    "response": "O Chapecoense tomou 15 gols"
+               }
+              ,
+               {
+                    "message": ["Quantos saldo de gols o time Chapecoense  possui ?", "Qual o saldo de gols do time Chapecoense  ?", "O Chapecoense  possui quantos gols de saldo ?"],
+                    "response": "O Chapecoense possui 7 de saldo de gols"
+               }
+              ,
+               {
+                    "message": ["Quantos cartoes amarelo o time Chapecoense  possui ?", "Qual o numero de cartoes amarelo que o time Chapecoense  possui ?", "O Chapecoense  possui quantos cartoes amarelo ?"],
+                    "response": "O Chapecoense possui 14 cartoes amarelo"
+               }
+              ,
+               {
+                    "message": ["Quantos cartoes vermelho o time Chapecoense  possui ?", "Qual o numero de cartoes vermelho que o time Chapecoense  possui ?", "O Chapecoense  possui quantos cartoes vermelho ?"],
+                    "response": "O Chapecoense possui 1 cartoes vermelho"
+               }
+              ,
+               {
+                    "message": ["Quanto de aproveitamento o time Chapecoense  possui ?", "Quantos porcento de aproveitamento o Chapecoense  tem?", "Como estah o aproveitamento do Chapecoense  ?"],
+                    "response": "O Chapecoense tem 16 % de aproveitamento no campeonato"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Chapecoense  Na ultima rodada ?", "O Chapecoense  foi bem na ultima rodada?", "Na ultima rodada o Chapecoense  foi bem?"],
+                    "response": "Na ultima rodada o Chapecoense  Perdeu"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Chapecoense  Na penultima rodada ?", "O Chapecoense  foi bem na penultima rodada?", "Na penultima rodada o Chapecoense  foi bem?"],
+                    "response": "Na penultima rodada o Chapecoense  Empatou"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Chapecoense  na antepenultima rodada ?", "O Chapecoense  foi bem na antepenultima rodada?", "Na antepenultima rodada o Chapecoense  foi bem?"],
+                    "response": "Na antepenultima rodada o Chapecoense  Perdeu"
+               }
+              ,
+               {
+                    "message": ["Qual eh o estado do Gremio  ?", "O Gremio eh de qual o estado ?", "De onde o Gremio  eh ?"],
+                    "response": "O Gremio eh de Rio Grande do Sul"
+               }
+              ,
+               {
+                    "message": ["Quantos pontos o time Gremio  possui ?", "Qual a pontuacao do time Gremio  ?", "O Gremio  possui quantos pontos?"],
+                    "response": "O Gremio possui 2 pontos"
+               }
+              ,
+               {
+                    "message": ["Quantos jogos o time Gremio  fez ?", "Qual o numero de jogos do time Gremio  ?", " O Gremio  fez quantos jogos ?"],
+                    "response": "O Gremio fez 6 jogos"
+               }
+              ,
+               {
+                    "message": ["Quantas vitorias o time Gremio  possui ?", "Qual o numero de vitorias do time Gremio  ?", "O Gremio  possui quantas vitorias ?"],
+                    "response": "O Gremio possui 0 vitorias"
+               }
+              ,
+               {
+                    "message": ["Quantos empates o time Gremio  possui ?", "Qual o numero de empates do time Gremio  ?", "O Gremio  possui quantos empates ?"],
+                    "response": "O Gremio possui 2 empates"
+               }
+              ,
+               {
+                    "message": ["Quantas derrotas o time Gremio  possui ?", "Qual o numero de derrotas do time Gremio  ?", "O Gremio  possui quantas derrotas?"],
+                    "response": "O Gremio possui 4 derrotas"
+               }
+              ,
+               {
+                    "message": ["Quantos gols o time Gremio  fez ?", "Qual numero de gols que o time Gremio  fez ?", " O Gremio  fez quantos gols ?"],
+                    "response": "O Gremio fez 4 gols"
+               }
+              ,
+               {
+                    "message": ["Quantos gols o time Gremio  tomou ?", "Qual o numero de gols que o time Gremio  tomou ?", "O Gremio  tomou quantos gols?"],
+                    "response": "O Gremio tomou 9 gols"
+               }
+              ,
+               {
+                    "message": ["Quantos saldo de gols o time Gremio  possui ?", "Qual o saldo de gols do time Gremio  ?", "O Gremio  possui quantos gols de saldo ?"],
+                    "response": "O Gremio possui 5 de saldo de gols"
+               }
+              ,
+               {
+                    "message": ["Quantos cartoes amarelo o time Gremio  possui ?", "Qual o numero de cartoes amarelo que o time Gremio  possui ?", "O Gremio  possui quantos cartoes amarelo ?"],
+                    "response": "O Gremio possui 19 cartoes amarelo"
+               }
+              ,
+               {
+                    "message": ["Quantos cartoes vermelho o time Gremio  possui ?", "Qual o numero de cartoes vermelho que o time Gremio  possui ?", "O Gremio  possui quantos cartoes vermelho ?"],
+                    "response": "O Gremio possui 1 cartoes vermelho"
+               }
+              ,
+               {
+                    "message": ["Quanto de aproveitamento o time Gremio  possui ?", "Quantos porcento de aproveitamento o Gremio  tem?", "Como estah o aproveitamento do Gremio  ?"],
+                    "response": "O Gremio tem 11 % de aproveitamento no campeonato"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Gremio  Na ultima rodada ?", "O Gremio  foi bem na ultima rodada?", "Na ultima rodada o Gremio  foi bem?"],
+                    "response": "Na ultima rodada o Gremio  Perdeu"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Gremio  Na penultima rodada ?", "O Gremio  foi bem na penultima rodada?", "Na penultima rodada o Gremio  foi bem?"],
+                    "response": "Na penultima rodada o Gremio  Empatou"
+               }
+              ,
+               {
+                    "message": ["O que aconteceu com o time Gremio  na antepenultima rodada ?", "O Gremio  foi bem na antepenultima rodada?", "Na antepenultima rodada o Gremio  foi bem?"],
+                    "response": "Na antepenultima rodada o Gremio  Empatou"
+               }
+     ]
+}
