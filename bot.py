@@ -1,7 +1,7 @@
 from chatterbot import ChatBot
 from difflib import SequenceMatcher
 
-ACCEPTANCE = 0.80
+ACCEPTANCE = 0.70
 
 def comparate_messages(message, candidate_message):
     similarity = 0.0

@@ -1,0 +1,78 @@
+{
+     "conversations":[
+               {
+                    "messages": ["Qual eh o estado do Fluminense  ?", "O Fluminense eh de qual o estado ?", "De onde o Fluminense  eh ?"],
+                    "response": "O Fluminense eh de Rio de Janeiro"
+               }
+              ,
+               {
+                    "messages": ["Quantos pontos o time Fluminense  possui ?", "Qual a pontuacao do time Fluminense  ?", "O Fluminense  possui quantos pontos?"],
+                    "response": "O Fluminense possui 10 pontos"
+               }
+              ,
+               {
+                    "messages": ["Quantos jogos o time Fluminense  fez ?", "Qual o numero de jogos do time Fluminense  ?", " O Fluminense  fez quantos jogos ?"],
+                    "response": "O Fluminense fez 8 jogos"
+               }
+              ,
+               {
+                    "messages": ["Quantas vitorias o time Fluminense  possui ?", "Qual o numero de vitorias do time Fluminense  ?", "O Fluminense  possui quantas vitorias ?"],
+                    "response": "O Fluminense possui 2 vitorias"
+               }
+              ,
+               {
+                    "messages": ["Quantos empates o time Fluminense  possui ?", "Qual o numero de empates do time Fluminense  ?", "O Fluminense  possui quantos empates ?"],
+                    "response": "O Fluminense possui 4 empates"
+               }
+              ,
+               {
+                    "messages": ["Quantas derrotas o time Fluminense  possui ?", "Qual o numero de derrotas do time Fluminense  ?", "O Fluminense  possui quantas derrotas?"],
+                    "response": "O Fluminense possui 2 derrotas"
+               }
+              ,
+               {
+                    "messages": ["Quantos gols o time Fluminense  fez ?", "Qual numero de gols que o time Fluminense  fez ?", " O Fluminense  fez quantos gols ?"],
+                    "response": "O Fluminense fez 7 gols"
+               }
+              ,
+               {
+                    "messages": ["Quantos gols o time Fluminense  tomou ?", "Qual o numero de gols que o time Fluminense  tomou ?", "O Fluminense  tomou quantos gols?"],
+                    "response": "O Fluminense tomou 9 gols"
+               }
+              ,
+               {
+                    "messages": ["Quantos saldo de gols o time Fluminense  possui ?", "Qual o saldo de gols do time Fluminense  ?", "O Fluminense  possui quantos gols de saldo ?"],
+                    "response": "O Fluminense possui 2 de saldo de gols"
+               }
+              ,
+               {
+                    "messages": ["Quantos cartoes amarelo o time Fluminense  possui ?", "Qual o numero de cartoes amarelo que o time Fluminense  possui ?", "O Fluminense  possui quantos cartoes amarelo ?"],
+                    "response": "O Fluminense possui 19 cartoes amarelo"
+               }
+              ,
+               {
+                    "messages": ["Quantos cartoes vermelho o time Fluminense  possui ?", "Qual o numero de cartoes vermelho que o time Fluminense  possui ?", "O Fluminense  possui quantos cartoes vermelho ?"],
+                    "response": "O Fluminense possui 1 cartoes vermelho"
+               }
+              ,
+               {
+                    "messages": ["Quanto de aproveitamento o time Fluminense  possui ?", "Quantos porcento de aproveitamento o Fluminense  tem?", "Como estah o aproveitamento do Fluminense  ?"],
+                    "response": "O Fluminense tem 41 % de aproveitamento no campeonato"
+               }
+              ,
+               {
+                    "messages": ["O que aconteceu com o time Fluminense  Na ultima rodada ?", "O Fluminense  foi bem na ultima rodada?", "Na ultima rodada o Fluminense  foi bem?"],
+                    "response": "Na ultima rodada o Fluminense  Perdeu"
+               }
+              ,
+               {
+                    "messages": ["O que aconteceu com o time Fluminense  Na penultima rodada ?", "O Fluminense  foi bem na penultima rodada?", "Na penultima rodada o Fluminense  foi bem?"],
+                    "response": "Na penultima rodada o Fluminense  Empatou"
+               }
+              ,
+               {
+                    "messages": ["O que aconteceu com o time Fluminense  na antepenultima rodada ?", "O Fluminense  foi bem na antepenultima rodada?", "Na antepenultima rodada o Fluminense  foi bem?"],
+                    "response": "Na antepenultima rodada o Fluminense  Perdeu"
+               }
+     ]
+}

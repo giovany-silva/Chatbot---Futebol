@@ -3,16 +3,16 @@ import unicodedata
 import requests
 import json
 from bs4 import BeautifulSoup
-
+nomes = []
 class Gera_Json:
-    def criaJson(self,perguntas, respostas):
-      arquivo = open("conversations\conversations.json", "w")
+    def criaJson(self,perguntas, respostas,nome):
+      arquivo = open("conversations\\"+nome.strip()+".json", "w")
       saida = "{\n     \"conversations\":[\n"
 
-      print(len(respostas))
-      print(len(perguntas))
+      
+      tam = len(perguntas) 
     
-      for i in range(300):
+      for i in range(tam):
           saida += " "*15+"{\n"
           saida += " "* 20+"\"messages\": ["
           for j in range(3):
@@ -25,7 +25,7 @@ class Gera_Json:
           saida += " "* 20+"\"response\": "
           saida += "\""+respostas[i] + "\"\n"
           saida += " "*15+"}\n"
-          if( i != 299):
+          if( i != tam-1):
             saida += "              ,"
             saida += "\n"
           
@@ -77,6 +77,7 @@ class Gera_Json:
                   time = unicodedata.normalize("NFD", time)
                   time = time.encode("ascii", "ignore")
                   time = time.decode("utf-8")
+                  nomes.append(time)
 
                   perguntas.append(["Qual eh o estado do "+ time+" ?","O "+ time+"eh de qual o estado ?",
                   "De onde o "+ time+" eh ?"])    
@@ -121,8 +122,32 @@ class Gera_Json:
     def __init__(self):
       perguntas = []
       respostas = []
+      
+      
       self.iniciar(perguntas,respostas)
-      self.criaJson(perguntas , respostas)
+      self.criaJson(perguntas[0:15] , respostas[0:15],nomes[0])
+      self.criaJson(perguntas[15:30] , respostas[15:30],nomes[1])
+      self.criaJson(perguntas[30:45] , respostas[30:45],nomes[2])
+      self.criaJson(perguntas[45:60] , respostas[45:60],nomes[3])
+      self.criaJson(perguntas[60:75] , respostas[60:75],nomes[4])
+      self.criaJson(perguntas[75:90] , respostas[75:90],nomes[5])
+      self.criaJson(perguntas[90:105] , respostas[90:105],nomes[6])
+      self.criaJson(perguntas[105:120] , respostas[105:120],nomes[7])
+      self.criaJson(perguntas[120:135] , respostas[120:135],nomes[8])
+      self.criaJson(perguntas[135:150] , respostas[135:150],nomes[9])
+      self.criaJson(perguntas[150:165] , respostas[150:165],nomes[10])
+      self.criaJson(perguntas[165:180] , respostas[165:180],nomes[11])
+      self.criaJson(perguntas[180:195] , respostas[180:195],nomes[12])
+      self.criaJson(perguntas[195:210] , respostas[195:210],nomes[13])
+      self.criaJson(perguntas[210:225] , respostas[210:225],nomes[14])
+      self.criaJson(perguntas[225:240] , respostas[225:240],nomes[15])
+      self.criaJson(perguntas[240:255] , respostas[240:255],nomes[16])
+      self.criaJson(perguntas[255:270] , respostas[255:270],nomes[17])
+      self.criaJson(perguntas[270:285] , respostas[270:285],nomes[18])
+      self.criaJson(perguntas[285:300] , respostas[285:300],nomes[19])
+
+
+
                   
       
 

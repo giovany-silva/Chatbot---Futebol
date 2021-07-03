@@ -4,8 +4,25 @@ from chatterbot.trainers import ListTrainer
 import json
 
 CONVERSATION_SETTINGS=[
-    "conversations\inicio_conversa.json",
-    "conversations\conversations.json"]
+    "conversations\\inicio_conversa.json",
+    "conversations\\Red Bull Bragantino.json",
+    "conversations\\Athletico Paranaense.json",
+    "conversations\\Palmeiras.json",
+    "conversations\\Fortaleza.json",
+    "conversations\\Atletico Mineiro.json",
+    "conversations\\Flamengo.json",
+    "conversations\\Juventude.json",
+    "conversations\\Bahia.json",
+    "conversations\\Atletico.json",
+    "conversations\\Corinthians.json",
+    "conversations\\Ceara.json",
+    "conversations\\Fluminense.json",
+    "conversations\\Internacional.json",
+    "conversations\\America.json",
+    "conversations\\Sao Paulo.json",
+    "conversations\\Cuiaba.json",
+    "conversations\\Chapecoense.json",
+    "conversations\\Gremio.json"]
 
 def initialize():
     global bot
