@@ -2,22 +2,50 @@
 <html>
   <head>
     <title>Futebot Brasileirão 2021</title>
-    <link rel="stylesheet" href="style.css">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-    <nav class="navbar navbar-light bg-dark">
-      <div class="container-fluid">
-        <span class="navbar-brand mb-0 h1" id="navbar">Futebot Brasileirão 2021</span>
-      </div>
-    </nav>
+    <link rel="stylesheet" href="home.css">
+    <link rel="stylesheet" href="chat.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+   
   </head>
   <body>
-    <ul id="messages"></ul>
-    <form action="">
-      <input id="m" autocomplete="off" placeholder="Digite aqui sua mensagem..." /><button type="submit" class="btn btn-primary"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
-        <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/>
-      </svg>Enviar</button>
-    </form>
+    
+    <!-- Chat Bar Block-->
+    <div class="chat-bar-collapsible">
+      <button id="chat-button" type="button" class="collapsible">Futebot Brasileirão 2021
+        <i id="chat-icon" style="color: white" class="fa fa-fw fa-comments-o"></i>
+      </button>
+
+      <div class="content">
+        <div class="full-chat-block">
+            <!--Mensagem Container-->
+            <div class="outer-container">
+              <div class="chat-container">
+                <!--Mensagens-->
+                <div id="chatbox">
+                  <h5 id="chat-timestamp"></h5>
+                  <p id="botStarterMessage" class="botText"><span>Carregando...</span></p>
+                </div>
+                <!--Input do Usuário-->
+                <div class="chat-bar-input-block">
+                  <div id="userInput">
+                    <input type="text" id="textInput" class="input-box" name="msg" placeholder="Digite sua mensagem aqui...">
+                    <p></p>
+                  </div>
+                  <div class="chat-bar-icons">
+                    <i id="chat-icon" style="color: crimson" class="fa fa-fw fa-heart" onclick="heartButton()"></i>
+                    <i id="chat-icon" style="color: #333" class="fa fa-fw fa-send" onclick="sendButton()"></i>
+                  </div>
+                </div>
+                <div id="chat-bar-bottom"></div>
+              </div>
+            </div>
+        </div>
+
+      </div>
+
+    </div>
+    <script src="chat.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="/socket.io/socket.io.js"></script>
     <script src="https://code.jquery.com/jquery-1.11.1.js"></script>
     <script>
