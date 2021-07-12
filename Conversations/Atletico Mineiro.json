@@ -7,17 +7,17 @@
               ,
                {
                     "messages": ["Quantos pontos o time Atletico Mineiro  possui ?", "Qual a pontuacao do time Atletico Mineiro  ?", "O Atletico Mineiro  possui quantos pontos?"],
-                    "response": "O Atletico Mineiro possui 13 pontos"
+                    "response": "O Atletico Mineiro possui 22 pontos"
                }
               ,
                {
                     "messages": ["Quantos jogos o time Atletico Mineiro  fez ?", "Qual o numero de jogos do time Atletico Mineiro  ?", " O Atletico Mineiro  fez quantos jogos ?"],
-                    "response": "O Atletico Mineiro fez 8 jogos"
+                    "response": "O Atletico Mineiro fez 11 jogos"
                }
               ,
                {
                     "messages": ["Quantas vitorias o time Atletico Mineiro  possui ?", "Qual o numero de vitorias do time Atletico Mineiro  ?", "O Atletico Mineiro  possui quantas vitorias ?"],
-                    "response": "O Atletico Mineiro possui 4 vitorias"
+                    "response": "O Atletico Mineiro possui 7 vitorias"
                }
               ,
                {
@@ -32,22 +32,22 @@
               ,
                {
                     "messages": ["Quantos gols o time Atletico Mineiro  fez ?", "Qual numero de gols que o time Atletico Mineiro  fez ?", " O Atletico Mineiro  fez quantos gols ?"],
-                    "response": "O Atletico Mineiro fez 10 gols"
+                    "response": "O Atletico Mineiro fez 14 gols"
                }
               ,
                {
                     "messages": ["Quantos gols o time Atletico Mineiro  tomou ?", "Qual o numero de gols que o time Atletico Mineiro  tomou ?", "O Atletico Mineiro  tomou quantos gols?"],
-                    "response": "O Atletico Mineiro tomou 8 gols"
+                    "response": "O Atletico Mineiro tomou 9 gols"
                }
               ,
                {
                     "messages": ["Quantos saldo de gols o time Atletico Mineiro  possui ?", "Qual o saldo de gols do time Atletico Mineiro  ?", "O Atletico Mineiro  possui quantos gols de saldo ?"],
-                    "response": "O Atletico Mineiro possui 2 de saldo de gols"
+                    "response": "O Atletico Mineiro possui 5 de saldo de gols"
                }
               ,
                {
                     "messages": ["Quantos cartoes amarelo o time Atletico Mineiro  possui ?", "Qual o numero de cartoes amarelo que o time Atletico Mineiro  possui ?", "O Atletico Mineiro  possui quantos cartoes amarelo ?"],
-                    "response": "O Atletico Mineiro possui 13 cartoes amarelo"
+                    "response": "O Atletico Mineiro possui 17 cartoes amarelo"
                }
               ,
                {
@@ -57,7 +57,7 @@
               ,
                {
                     "messages": ["Quanto de aproveitamento o time Atletico Mineiro  possui ?", "Quantos porcento de aproveitamento o Atletico Mineiro  tem?", "Como estah o aproveitamento do Atletico Mineiro  ?"],
-                    "response": "O Atletico Mineiro tem 54 % de aproveitamento no campeonato"
+                    "response": "O Atletico Mineiro tem 66 % de aproveitamento no campeonato"
                }
               ,
                {
@@ -67,12 +67,12 @@
               ,
                {
                     "messages": ["O que aconteceu com o time Atletico Mineiro  Na penultima rodada ?", "O Atletico Mineiro  foi bem na penultima rodada?", "Na penultima rodada o Atletico Mineiro  foi bem?"],
-                    "response": "Na penultima rodada o Atletico Mineiro  Perdeu"
+                    "response": "Na penultima rodada o Atletico Mineiro  Venceu"
                }
               ,
                {
                     "messages": ["O que aconteceu com o time Atletico Mineiro  na antepenultima rodada ?", "O Atletico Mineiro  foi bem na antepenultima rodada?", "Na antepenultima rodada o Atletico Mineiro  foi bem?"],
-                    "response": "Na antepenultima rodada o Atletico Mineiro  Perdeu"
+                    "response": "Na antepenultima rodada o Atletico Mineiro  Venceu"
                }
      ]
 }

@@ -22,6 +22,8 @@ CONVERSATION_SETTINGS=[
     "conversations\\Sao Paulo.json",
     "conversations\\Cuiaba.json",
     "conversations\\Chapecoense.json",
+    "conversations\\Sport.json",
+    "conversations\\Santos.json",
     "conversations\\Gremio.json"]
 
 def initialize():
@@ -43,7 +45,7 @@ def load_conversations():
             file.close()
     
 
-    return conversations;
+    return conversations
 
 
 def train_bot(conversations):

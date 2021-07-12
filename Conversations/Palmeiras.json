@@ -7,17 +7,17 @@
               ,
                {
                     "messages": ["Quantos pontos o time Palmeiras  possui ?", "Qual a pontuacao do time Palmeiras  ?", "O Palmeiras  possui quantos pontos?"],
-                    "response": "O Palmeiras possui 16 pontos"
+                    "response": "O Palmeiras possui 25 pontos"
                }
               ,
                {
                     "messages": ["Quantos jogos o time Palmeiras  fez ?", "Qual o numero de jogos do time Palmeiras  ?", " O Palmeiras  fez quantos jogos ?"],
-                    "response": "O Palmeiras fez 8 jogos"
+                    "response": "O Palmeiras fez 11 jogos"
                }
               ,
                {
                     "messages": ["Quantas vitorias o time Palmeiras  possui ?", "Qual o numero de vitorias do time Palmeiras  ?", "O Palmeiras  possui quantas vitorias ?"],
-                    "response": "O Palmeiras possui 5 vitorias"
+                    "response": "O Palmeiras possui 8 vitorias"
                }
               ,
                {
@@ -32,22 +32,22 @@
               ,
                {
                     "messages": ["Quantos gols o time Palmeiras  fez ?", "Qual numero de gols que o time Palmeiras  fez ?", " O Palmeiras  fez quantos gols ?"],
-                    "response": "O Palmeiras fez 15 gols"
+                    "response": "O Palmeiras fez 21 gols"
                }
               ,
                {
                     "messages": ["Quantos gols o time Palmeiras  tomou ?", "Qual o numero de gols que o time Palmeiras  tomou ?", "O Palmeiras  tomou quantos gols?"],
-                    "response": "O Palmeiras tomou 10 gols"
+                    "response": "O Palmeiras tomou 12 gols"
                }
               ,
                {
                     "messages": ["Quantos saldo de gols o time Palmeiras  possui ?", "Qual o saldo de gols do time Palmeiras  ?", "O Palmeiras  possui quantos gols de saldo ?"],
-                    "response": "O Palmeiras possui 5 de saldo de gols"
+                    "response": "O Palmeiras possui 9 de saldo de gols"
                }
               ,
                {
                     "messages": ["Quantos cartoes amarelo o time Palmeiras  possui ?", "Qual o numero de cartoes amarelo que o time Palmeiras  possui ?", "O Palmeiras  possui quantos cartoes amarelo ?"],
-                    "response": "O Palmeiras possui 24 cartoes amarelo"
+                    "response": "O Palmeiras possui 29 cartoes amarelo"
                }
               ,
                {
@@ -57,7 +57,7 @@
               ,
                {
                     "messages": ["Quanto de aproveitamento o time Palmeiras  possui ?", "Quantos porcento de aproveitamento o Palmeiras  tem?", "Como estah o aproveitamento do Palmeiras  ?"],
-                    "response": "O Palmeiras tem 66 % de aproveitamento no campeonato"
+                    "response": "O Palmeiras tem 75 % de aproveitamento no campeonato"
                }
               ,
                {
@@ -72,7 +72,7 @@
               ,
                {
                     "messages": ["O que aconteceu com o time Palmeiras  na antepenultima rodada ?", "O Palmeiras  foi bem na antepenultima rodada?", "Na antepenultima rodada o Palmeiras  foi bem?"],
-                    "response": "Na antepenultima rodada o Palmeiras  Perdeu"
+                    "response": "Na antepenultima rodada o Palmeiras  Venceu"
                }
      ]
 }

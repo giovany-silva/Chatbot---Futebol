@@ -7,22 +7,22 @@
               ,
                {
                     "messages": ["Quantos pontos o time Ceara  possui ?", "Qual a pontuacao do time Ceara  ?", "O Ceara  possui quantos pontos?"],
-                    "response": "O Ceara possui 10 pontos"
+                    "response": "O Ceara possui 15 pontos"
                }
               ,
                {
                     "messages": ["Quantos jogos o time Ceara  fez ?", "Qual o numero de jogos do time Ceara  ?", " O Ceara  fez quantos jogos ?"],
-                    "response": "O Ceara fez 8 jogos"
+                    "response": "O Ceara fez 11 jogos"
                }
               ,
                {
                     "messages": ["Quantas vitorias o time Ceara  possui ?", "Qual o numero de vitorias do time Ceara  ?", "O Ceara  possui quantas vitorias ?"],
-                    "response": "O Ceara possui 2 vitorias"
+                    "response": "O Ceara possui 3 vitorias"
                }
               ,
                {
                     "messages": ["Quantos empates o time Ceara  possui ?", "Qual o numero de empates do time Ceara  ?", "O Ceara  possui quantos empates ?"],
-                    "response": "O Ceara possui 4 empates"
+                    "response": "O Ceara possui 6 empates"
                }
               ,
                {
@@ -32,12 +32,12 @@
               ,
                {
                     "messages": ["Quantos gols o time Ceara  fez ?", "Qual numero de gols que o time Ceara  fez ?", " O Ceara  fez quantos gols ?"],
-                    "response": "O Ceara fez 9 gols"
+                    "response": "O Ceara fez 13 gols"
                }
               ,
                {
                     "messages": ["Quantos gols o time Ceara  tomou ?", "Qual o numero de gols que o time Ceara  tomou ?", "O Ceara  tomou quantos gols?"],
-                    "response": "O Ceara tomou 10 gols"
+                    "response": "O Ceara tomou 12 gols"
                }
               ,
                {
@@ -47,7 +47,7 @@
               ,
                {
                     "messages": ["Quantos cartoes amarelo o time Ceara  possui ?", "Qual o numero de cartoes amarelo que o time Ceara  possui ?", "O Ceara  possui quantos cartoes amarelo ?"],
-                    "response": "O Ceara possui 22 cartoes amarelo"
+                    "response": "O Ceara possui 30 cartoes amarelo"
                }
               ,
                {
@@ -57,7 +57,7 @@
               ,
                {
                     "messages": ["Quanto de aproveitamento o time Ceara  possui ?", "Quantos porcento de aproveitamento o Ceara  tem?", "Como estah o aproveitamento do Ceara  ?"],
-                    "response": "O Ceara tem 41 % de aproveitamento no campeonato"
+                    "response": "O Ceara tem 45 % de aproveitamento no campeonato"
                }
               ,
                {

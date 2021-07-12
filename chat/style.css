@@ -4,8 +4,9 @@
     box-sizing: border-box; 
 }
 
-body { 
-    font: 13px Helvetica, Arial; 
+body {  
+    font-family: 'Pacifico', 'Arial Narrow';
+    font-size: 20px;
 }
 
 form { 
@@ -36,7 +37,7 @@ form button {
 }
     
 #messages { 
-    list-style-type: none;
+    list-style-type:lower-alpha;
      margin: 0; 
      padding: 0; 
 }
@@ -45,7 +46,7 @@ form button {
 }
       
 #messages li:nth-child(odd) { 
-    background: #eee; 
+    background:#000; 
 }
       
 #messages { 

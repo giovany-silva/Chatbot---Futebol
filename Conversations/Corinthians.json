@@ -7,37 +7,37 @@
               ,
                {
                     "messages": ["Quantos pontos o time Corinthians  possui ?", "Qual a pontuacao do time Corinthians  ?", "O Corinthians  possui quantos pontos?"],
-                    "response": "O Corinthians possui 10 pontos"
+                    "response": "O Corinthians possui 14 pontos"
                }
               ,
                {
                     "messages": ["Quantos jogos o time Corinthians  fez ?", "Qual o numero de jogos do time Corinthians  ?", " O Corinthians  fez quantos jogos ?"],
-                    "response": "O Corinthians fez 8 jogos"
+                    "response": "O Corinthians fez 11 jogos"
                }
               ,
                {
                     "messages": ["Quantas vitorias o time Corinthians  possui ?", "Qual o numero de vitorias do time Corinthians  ?", "O Corinthians  possui quantas vitorias ?"],
-                    "response": "O Corinthians possui 2 vitorias"
+                    "response": "O Corinthians possui 3 vitorias"
                }
               ,
                {
                     "messages": ["Quantos empates o time Corinthians  possui ?", "Qual o numero de empates do time Corinthians  ?", "O Corinthians  possui quantos empates ?"],
-                    "response": "O Corinthians possui 4 empates"
+                    "response": "O Corinthians possui 5 empates"
                }
               ,
                {
                     "messages": ["Quantas derrotas o time Corinthians  possui ?", "Qual o numero de derrotas do time Corinthians  ?", "O Corinthians  possui quantas derrotas?"],
-                    "response": "O Corinthians possui 2 derrotas"
+                    "response": "O Corinthians possui 3 derrotas"
                }
               ,
                {
                     "messages": ["Quantos gols o time Corinthians  fez ?", "Qual numero de gols que o time Corinthians  fez ?", " O Corinthians  fez quantos gols ?"],
-                    "response": "O Corinthians fez 6 gols"
+                    "response": "O Corinthians fez 8 gols"
                }
               ,
                {
                     "messages": ["Quantos gols o time Corinthians  tomou ?", "Qual o numero de gols que o time Corinthians  tomou ?", "O Corinthians  tomou quantos gols?"],
-                    "response": "O Corinthians tomou 6 gols"
+                    "response": "O Corinthians tomou 8 gols"
                }
               ,
                {
@@ -47,7 +47,7 @@
               ,
                {
                     "messages": ["Quantos cartoes amarelo o time Corinthians  possui ?", "Qual o numero de cartoes amarelo que o time Corinthians  possui ?", "O Corinthians  possui quantos cartoes amarelo ?"],
-                    "response": "O Corinthians possui 15 cartoes amarelo"
+                    "response": "O Corinthians possui 20 cartoes amarelo"
                }
               ,
                {
@@ -57,22 +57,22 @@
               ,
                {
                     "messages": ["Quanto de aproveitamento o time Corinthians  possui ?", "Quantos porcento de aproveitamento o Corinthians  tem?", "Como estah o aproveitamento do Corinthians  ?"],
-                    "response": "O Corinthians tem 41 % de aproveitamento no campeonato"
+                    "response": "O Corinthians tem 42 % de aproveitamento no campeonato"
                }
               ,
                {
                     "messages": ["O que aconteceu com o time Corinthians  Na ultima rodada ?", "O Corinthians  foi bem na ultima rodada?", "Na ultima rodada o Corinthians  foi bem?"],
-                    "response": "Na ultima rodada o Corinthians  Empatou"
+                    "response": "Na ultima rodada o Corinthians  Perdeu"
                }
               ,
                {
                     "messages": ["O que aconteceu com o time Corinthians  Na penultima rodada ?", "O Corinthians  foi bem na penultima rodada?", "Na penultima rodada o Corinthians  foi bem?"],
-                    "response": "Na penultima rodada o Corinthians  Empatou"
+                    "response": "Na penultima rodada o Corinthians  Venceu"
                }
               ,
                {
                     "messages": ["O que aconteceu com o time Corinthians  na antepenultima rodada ?", "O Corinthians  foi bem na antepenultima rodada?", "Na antepenultima rodada o Corinthians  foi bem?"],
-                    "response": "Na antepenultima rodada o Corinthians  Venceu"
+                    "response": "Na antepenultima rodada o Corinthians  Empatou"
                }
      ]
 }

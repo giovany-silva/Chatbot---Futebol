@@ -7,17 +7,17 @@
               ,
                {
                     "messages": ["Quantos pontos o time Bahia  possui ?", "Qual a pontuacao do time Bahia  ?", "O Bahia  possui quantos pontos?"],
-                    "response": "O Bahia possui 11 pontos"
+                    "response": "O Bahia possui 17 pontos"
                }
               ,
                {
                     "messages": ["Quantos jogos o time Bahia  fez ?", "Qual o numero de jogos do time Bahia  ?", " O Bahia  fez quantos jogos ?"],
-                    "response": "O Bahia fez 8 jogos"
+                    "response": "O Bahia fez 11 jogos"
                }
               ,
                {
                     "messages": ["Quantas vitorias o time Bahia  possui ?", "Qual o numero de vitorias do time Bahia  ?", "O Bahia  possui quantas vitorias ?"],
-                    "response": "O Bahia possui 3 vitorias"
+                    "response": "O Bahia possui 5 vitorias"
                }
               ,
                {
@@ -27,27 +27,27 @@
               ,
                {
                     "messages": ["Quantas derrotas o time Bahia  possui ?", "Qual o numero de derrotas do time Bahia  ?", "O Bahia  possui quantas derrotas?"],
-                    "response": "O Bahia possui 3 derrotas"
+                    "response": "O Bahia possui 4 derrotas"
                }
               ,
                {
                     "messages": ["Quantos gols o time Bahia  fez ?", "Qual numero de gols que o time Bahia  fez ?", " O Bahia  fez quantos gols ?"],
-                    "response": "O Bahia fez 15 gols"
+                    "response": "O Bahia fez 18 gols"
                }
               ,
                {
                     "messages": ["Quantos gols o time Bahia  tomou ?", "Qual o numero de gols que o time Bahia  tomou ?", "O Bahia  tomou quantos gols?"],
-                    "response": "O Bahia tomou 13 gols"
+                    "response": "O Bahia tomou 14 gols"
                }
               ,
                {
                     "messages": ["Quantos saldo de gols o time Bahia  possui ?", "Qual o saldo de gols do time Bahia  ?", "O Bahia  possui quantos gols de saldo ?"],
-                    "response": "O Bahia possui 2 de saldo de gols"
+                    "response": "O Bahia possui 4 de saldo de gols"
                }
               ,
                {
                     "messages": ["Quantos cartoes amarelo o time Bahia  possui ?", "Qual o numero de cartoes amarelo que o time Bahia  possui ?", "O Bahia  possui quantos cartoes amarelo ?"],
-                    "response": "O Bahia possui 30 cartoes amarelo"
+                    "response": "O Bahia possui 34 cartoes amarelo"
                }
               ,
                {
@@ -57,7 +57,7 @@
               ,
                {
                     "messages": ["Quanto de aproveitamento o time Bahia  possui ?", "Quantos porcento de aproveitamento o Bahia  tem?", "Como estah o aproveitamento do Bahia  ?"],
-                    "response": "O Bahia tem 45 % de aproveitamento no campeonato"
+                    "response": "O Bahia tem 51 % de aproveitamento no campeonato"
                }
               ,
                {
@@ -67,7 +67,7 @@
               ,
                {
                     "messages": ["O que aconteceu com o time Bahia  Na penultima rodada ?", "O Bahia  foi bem na penultima rodada?", "Na penultima rodada o Bahia  foi bem?"],
-                    "response": "Na penultima rodada o Bahia  Perdeu"
+                    "response": "Na penultima rodada o Bahia  Venceu"
                }
               ,
                {

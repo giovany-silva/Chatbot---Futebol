@@ -7,12 +7,12 @@
               ,
                {
                     "messages": ["Quantos pontos o time Cuiaba  possui ?", "Qual a pontuacao do time Cuiaba  ?", "O Cuiaba  possui quantos pontos?"],
-                    "response": "O Cuiaba possui 4 pontos"
+                    "response": "O Cuiaba possui 6 pontos"
                }
               ,
                {
                     "messages": ["Quantos jogos o time Cuiaba  fez ?", "Qual o numero de jogos do time Cuiaba  ?", " O Cuiaba  fez quantos jogos ?"],
-                    "response": "O Cuiaba fez 6 jogos"
+                    "response": "O Cuiaba fez 9 jogos"
                }
               ,
                {
@@ -22,37 +22,37 @@
               ,
                {
                     "messages": ["Quantos empates o time Cuiaba  possui ?", "Qual o numero de empates do time Cuiaba  ?", "O Cuiaba  possui quantos empates ?"],
-                    "response": "O Cuiaba possui 4 empates"
+                    "response": "O Cuiaba possui 6 empates"
                }
               ,
                {
                     "messages": ["Quantas derrotas o time Cuiaba  possui ?", "Qual o numero de derrotas do time Cuiaba  ?", "O Cuiaba  possui quantas derrotas?"],
-                    "response": "O Cuiaba possui 2 derrotas"
+                    "response": "O Cuiaba possui 3 derrotas"
                }
               ,
                {
                     "messages": ["Quantos gols o time Cuiaba  fez ?", "Qual numero de gols que o time Cuiaba  fez ?", " O Cuiaba  fez quantos gols ?"],
-                    "response": "O Cuiaba fez 4 gols"
+                    "response": "O Cuiaba fez 7 gols"
                }
               ,
                {
                     "messages": ["Quantos gols o time Cuiaba  tomou ?", "Qual o numero de gols que o time Cuiaba  tomou ?", "O Cuiaba  tomou quantos gols?"],
-                    "response": "O Cuiaba tomou 7 gols"
+                    "response": "O Cuiaba tomou 11 gols"
                }
               ,
                {
                     "messages": ["Quantos saldo de gols o time Cuiaba  possui ?", "Qual o saldo de gols do time Cuiaba  ?", "O Cuiaba  possui quantos gols de saldo ?"],
-                    "response": "O Cuiaba possui 3 de saldo de gols"
+                    "response": "O Cuiaba possui 4 de saldo de gols"
                }
               ,
                {
                     "messages": ["Quantos cartoes amarelo o time Cuiaba  possui ?", "Qual o numero de cartoes amarelo que o time Cuiaba  possui ?", "O Cuiaba  possui quantos cartoes amarelo ?"],
-                    "response": "O Cuiaba possui 8 cartoes amarelo"
+                    "response": "O Cuiaba possui 17 cartoes amarelo"
                }
               ,
                {
                     "messages": ["Quantos cartoes vermelho o time Cuiaba  possui ?", "Qual o numero de cartoes vermelho que o time Cuiaba  possui ?", "O Cuiaba  possui quantos cartoes vermelho ?"],
-                    "response": "O Cuiaba possui 0 cartoes vermelho"
+                    "response": "O Cuiaba possui 1 cartoes vermelho"
                }
               ,
                {
@@ -62,7 +62,7 @@
               ,
                {
                     "messages": ["O que aconteceu com o time Cuiaba  Na ultima rodada ?", "O Cuiaba  foi bem na ultima rodada?", "Na ultima rodada o Cuiaba  foi bem?"],
-                    "response": "Na ultima rodada o Cuiaba  Perdeu"
+                    "response": "Na ultima rodada o Cuiaba  Empatou"
                }
               ,
                {
@@ -72,7 +72,7 @@
               ,
                {
                     "messages": ["O que aconteceu com o time Cuiaba  na antepenultima rodada ?", "O Cuiaba  foi bem na antepenultima rodada?", "Na antepenultima rodada o Cuiaba  foi bem?"],
-                    "response": "Na antepenultima rodada o Cuiaba  Empatou"
+                    "response": "Na antepenultima rodada o Cuiaba  Perdeu"
                }
      ]
 }
