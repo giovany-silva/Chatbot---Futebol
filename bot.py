@@ -1,3 +1,5 @@
+#esse arquivo faz a seleção da melhor resposta para a pergunta feita
+
 #biblioteca que possui o objeto Chatbot
 from chatterbot import ChatBot
 #SequenceMatcher compara pares de sequências de entrada 
@@ -8,7 +10,7 @@ from chatterbot.response_selection import get_most_frequent_response
 # nível mínimo de similaridade da pergunta com as perguntas do banco
 ACCEPTANCE = 0.95
 
-# função que compara a pergunta do usuário com as perguntas do banco e retorna a similaridade, se houver
+# função que compara a pergunta do usuário com as perguntas do treinamento e retorna a similaridade, se houver
 def comparate_messages(message, candidate_message):
     similarity = 0.0
 
@@ -46,7 +48,7 @@ def execute_bot():
     # criamos o chatbot
     bot = ChatBot("Robô do Brasileirão 2021",
         #se não quiser que o ser bot aprenda com as entradas, faça read_only=True,
-        read_only=False,
+
         #definimos o método de comparação de mensagens, ou seja, a nossa função comparate-messages
         statement_comparison_function=comparate_messages,
 
