@@ -1,6 +1,6 @@
 #importamos todos os componentes da biblioteca bot
 from bot import * 
-#importamos o Flask 
+#importamos o Flask que cria aplicativos Web
 from flask import Flask
 
 VERSION = "1.0"
@@ -8,7 +8,6 @@ VERSION = "1.0"
 
 bot = ChatBot("Robô do Brasileirão 2021",
     #se não quiser que o ser bot aprenda com as entradas, faça read_only=True,
-    read_only=False,
 
     #definimos o método de comparação de mensagens, ou seja, a nossa função comparate-messages
     statement_comparison_function=comparate_messages,
@@ -32,14 +31,13 @@ bot_service = Flask(__name__)
 def get_version():
     return VERSION
 
-#rota para capturar a resposta
 @bot_service.route("/response/<message>", methods=["GET"])
 def get_response(message):
     response = bot.get_response(message)
     if response.confidence > 0.0:
           return response.text
           
-    return "Ainda não sei como responder essa pergunta :("
+    return "Ainda não sei a resposta dessa pergunta, tente outra coisa!"
 
 if __name__ == "__main__":
     bot_service.run()
