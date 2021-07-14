@@ -4,6 +4,8 @@ import requests
 import json
 from bs4 import BeautifulSoup
 nomes = []
+
+#Classe geradora de arquivos para treinamento
 class Gera_Json:
     def criaJson(self,perguntas, respostas,nome):
       arquivo = open("conversations\\"+nome.strip()+".json", "w")
@@ -37,7 +39,7 @@ class Gera_Json:
   
 
     def iniciar(self,perguntas,respostas):
-          link = 'https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a/2021'
+          link = 'https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie'
           req = requests.get(link)
 
           lista = []
@@ -53,10 +55,12 @@ class Gera_Json:
           
 
           for dado in tabela:
+            #Captura os dados
                   valores = dado.text.replace("\n","-").replace("-----","-").replace("----","-").replace("---","-").replace("--","-").split("-")
+            #Deleção da primeira posição
                   del(valores[len(valores)-1])
                   del(valores[0])
-                  
+            #armazenamento das variáveis
                   time = valores[2]
                   estado = valores[3].replace(" ","")
                   pontos = valores[4]
@@ -74,11 +78,13 @@ class Gera_Json:
                   penultima_partida = resultado[valores[16]]
                   ante_penultima_partida = resultado[valores[15]]
 
+                  #Pega os nomes dos times e retira os acentos
                   time = unicodedata.normalize("NFD", time)
                   time = time.encode("ascii", "ignore")
                   time = time.decode("utf-8")
                   nomes.append(time)
 
+                  #Criação das perguntas que serão adicionadas a lista de treinamento
                   perguntas.append(["Qual eh o estado do "+ time+" ?","O "+ time+"eh de qual o estado ?",
                   "De onde o "+ time+" eh ?"])    
                   perguntas.append(["Quantos pontos o time "+ time+" possui ?","Qual a pontuacao do time "+ time+" ?","O "+ time+" possui quantos pontos?"])
@@ -89,13 +95,14 @@ class Gera_Json:
                   perguntas.append(["Quantos gols o time "+ time+" fez ?","Qual numero de gols que o time "+ time+" fez ?"," O "+ time+" fez quantos gols ?"])
                   perguntas.append(["Quantos gols o time "+ time+" tomou ?","Qual o numero de gols que o time "+ time+" tomou ?","O "+ time+" tomou quantos gols?"])
                   perguntas.append(["Quantos saldo de gols o time "+time+ " possui ?","Qual o saldo de gols do time "+time+ " ?","O "+time+ " possui quantos gols de saldo ?"])
-                  perguntas.append(["Quantos cartoes amarelo o time "+time+ " possui ?","Qual o numero de cartoes amarelo que o time "+time+ " possui ?","O "+time+ " possui quantos cartoes amarelo ?"])
-                  perguntas.append(["Quantos cartoes vermelho o time "+time+ " possui ?","Qual o numero de cartoes vermelho que o time "+time+ " possui ?","O "+time+ " possui quantos cartoes vermelho ?"])
+                  perguntas.append(["Quantos cartoes amarelo o time "+time+ " possui ?","Qual o numero de cartoes amarelo que o time "+time+ " possui ?","O "+time+ " possui quantos cartoes amarelos ?"])
+                  perguntas.append(["Quantos cartoes vermelho o time "+time+ " possui ?","Qual o numero de cartoes vermelho que o time "+time+ " possui ?","O "+time+ " possui quantos cartoes vermelhos ?"])
                   perguntas.append(["Quanto de aproveitamento o time "+ time+" possui ?", "Quantos porcento de aproveitamento o " + time+ " tem?", "Como estah o aproveitamento do " + time+ " ?"])
                   perguntas.append(["O que aconteceu com o time "+ time+" Na ultima rodada ?", "O " + time+ " foi bem na ultima rodada?", "Na ultima rodada o " + time+ " foi bem?"])
                   perguntas.append(["O que aconteceu com o time "+ time+" Na penultima rodada ?", "O " + time+ " foi bem na penultima rodada?", "Na penultima rodada o " + time+ " foi bem?"])
                   perguntas.append(["O que aconteceu com o time "+ time+" na antepenultima rodada ?", "O " + time+ " foi bem na antepenultima rodada?", "Na antepenultima rodada o " + time+ " foi bem?"])
     
+                  #Criação das perguntas que serão adicionadas a lista de treinamento
                   respostas.append("O "+ time +"eh de "+ estado_correspondente[estado])
                   respostas.append("O "+ time +"possui "+ pontos+ " pontos")
                   respostas.append("O "+ time +"fez "+ jogos+" jogos")
@@ -123,7 +130,7 @@ class Gera_Json:
       perguntas = []
       respostas = []
       
-      
+      #Para cada grupo de perguntas associe as respostas e crie um arquivo 
       self.iniciar(perguntas,respostas)
       self.criaJson(perguntas[0:15] , respostas[0:15],nomes[0])
       self.criaJson(perguntas[15:30] , respostas[15:30],nomes[1])
