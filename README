@@ -1,0 +1,8 @@
+Chatbot so Brasileirão 2021
+
+Para executar:
+1º rodar o trainer.py
+
+2º rodar o bot_service.py
+
+3º dentro da pasta chat rodar o index.js com o node (node .\index.js)
