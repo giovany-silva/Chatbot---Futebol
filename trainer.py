@@ -1,6 +1,10 @@
+#library que possui o objeto Chatbot
 from chatterbot import ChatBot
+#classe que possui função para geração dos aruivos para treinamento
 from Gera_Json import Gera_Json
+#library que possui o objeto para lista de treinamento
 from chatterbot.trainers import ListTrainer
+#library para conversao de file para json
 import json
 
 CONVERSATION_SETTINGS=[
@@ -25,7 +29,7 @@ CONVERSATION_SETTINGS=[
     "conversations\\Sport.json",
     "conversations\\Santos.json",
     "conversations\\Gremio.json"]
-
+# inicializa a instancia do robô e criação da lista para treino
 def initialize():
     global bot
     global trainer
@@ -33,10 +37,10 @@ def initialize():
     gerador = Gera_Json()
     bot = ChatBot("Robô do Brasileirão 2021")
     trainer = ListTrainer(bot)
-
+#Adiciona e treina os arqquivos json
 def load_conversations():
     conversations =[]
-
+#Para cada arquivo adicione na liista de treino
     for setting_file in CONVERSATION_SETTINGS:
         with open(setting_file, 'r',encoding="utf-8") as file:
             configured_conversations = json.load(file)
@@ -47,11 +51,12 @@ def load_conversations():
 
     return conversations
 
-
+#Recebe a lista de treino e realiza o  treinamento sobre ela
 def train_bot(conversations):
     global trainer
 
-    for conversation in conversations:
+    for conversation in conversations: 
+       #Para cada conjunto de pergunta e respota treine o chatbot
         for message_response in conversation:
             messages = message_response["messages"]
             response = message_response["response"]
