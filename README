@@ -1,5 +1,14 @@
-Chatbot so Brasileirão 2021
+## Futebot Brasileirão 2021 :speech_balloon: :soccer:
+O Futebot Brasileirão 2021 é um bot desenvolvido para retirar dúvidas sobre o campeonato brasileiro (séria A) de 2021.
 
+## Status do projeto
+Funcional, porém deve sofrer alterações de interface.
+
+## Softwares necessários
+Alguns softwares são necessários para que o projeto possa ser devidamente executado.
+
+
+## Instruções para execução
 Para executar:
 1º rodar o trainer.py
 
